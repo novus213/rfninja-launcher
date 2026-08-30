@@ -1,0 +1,53 @@
+name: Signaler un bug
+description: Quelque chose ne fonctionne pas comme prévu en jeu ou dans le launcher.
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Merci de prendre le temps de signaler ce problème. Plus votre description
+        est précise, plus la correction sera rapide.
+
+        Si vous avez une capture d'écran, joignez-la : elle vaut souvent mieux
+        qu'une longue explication.
+  - type: textarea
+    id: description
+    attributes:
+      label: Que s'est-il passé ?
+      description: Décrivez ce que vous avez observé.
+      placeholder: Le vaisseau n'apparaît pas à quai alors que le message d'arrivée s'affiche.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Comment le reproduire ?
+      description: Les étapes à suivre pour retomber sur le problème.
+      placeholder: |
+        1. Aller au quai de HQ Bellato
+        2. Attendre l'annonce d'arrivée
+        3. Le vaisseau reste invisible
+    validations:
+      required: true
+  - type: input
+    id: quand
+    attributes:
+      label: Quand ?
+      description: Date et heure approximatives, avec votre fuseau si vous n'êtes pas en France.
+      placeholder: 30/08 vers 14h30
+  - type: input
+    id: personnage
+    attributes:
+      label: Personnage et race
+      placeholder: Pepito, Bellato
+  - type: dropdown
+    id: ou
+    attributes:
+      label: Où ?
+      options:
+        - En jeu
+        - Dans le launcher
+        - À l'installation
+        - Autre
+    validations:
+      required: true

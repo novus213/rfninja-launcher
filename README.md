@@ -1,3 +1,5 @@
+***Français** · [English](README.en.md)*
+
 # N.I.N.J.A — Rising Force Online
 
 Launcher officiel du serveur.
@@ -27,6 +29,14 @@ vérifie les mises à jour et les applique avant la connexion.
 - **Le téléchargement ne démarre pas** : vérifiez que `RFNinja.exe` n'est pas
   bloqué par votre antivirus ou votre pare-feu — il a besoin d'accéder à
   Internet pour installer et mettre à jour le jeu.
+
+## Signaler un problème
+
+Un bug, une idée ? Ouvrez une [issue](../../issues/new/choose). Décrivez ce que
+vous avez observé et comment y retomber — une capture d'écran vaut souvent mieux
+qu'une longue explication.
+
+Les changements récents sont listés dans le [journal des modifications](CHANGELOG.md).
 
 ---
 
