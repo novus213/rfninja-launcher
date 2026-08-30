@@ -5,6 +5,14 @@
 Les changements apportés au serveur et au client, du plus récent au plus ancien.
 Le launcher applique les mises à jour du client automatiquement au démarrage.
 
+## 30 août 2026 — soir
+
+**Les armures dragon sont disponibles.**
+Deux sets complets, **Fire Dragon** et **Aqua Dragon**, en cinq pièces chacun —
+casque, tunique, jambières, gantelets, bottes — pour les trois races. Les objets
+existaient depuis toujours dans le jeu mais n'avaient jamais eu de modèle 3D :
+ils étaient donc impossibles à porter. C'est corrigé.
+
 ## 30 août 2026
 
 **Le vaisseau de transport s'affiche à nouveau à quai.**

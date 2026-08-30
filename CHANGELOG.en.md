@@ -5,6 +5,14 @@
 Changes made to the server and the client, newest first. The launcher applies
 client updates automatically on startup.
 
+## 30 August 2026 — evening
+
+**Dragon armour is available.**
+Two complete sets, **Fire Dragon** and **Aqua Dragon**, five pieces each —
+helmet, tunic, leggings, gauntlets, boots — for all three races. The items had
+always existed in the game but never had a 3D model, so they could not be worn.
+That is now fixed.
+
 ## 30 August 2026
 
 **The transport ship is visible at dock again.**
