@@ -5,6 +5,14 @@
 Changes made to the server and the client, newest first. The launcher applies
 client updates automatically on startup.
 
+## 31 August 2026
+
+**The upgrade window shows up again.**
+Right-clicking an item to upgrade opened an invisible window: nothing appeared,
+but the game seemed frozen — you could no longer click on the world, and only
+Escape gave control back. The window was in fact opening, but its background was
+never drawn, because one graphics file sat in the wrong folder. Fixed.
+
 ## 30 August 2026 — evening
 
 **Dragon armour is available.**

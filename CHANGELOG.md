@@ -5,6 +5,15 @@
 Les changements apportés au serveur et au client, du plus récent au plus ancien.
 Le launcher applique les mises à jour du client automatiquement au démarrage.
 
+## 31 août 2026
+
+**La fenêtre d'amélioration s'affiche à nouveau.**
+Un clic droit sur un objet à améliorer ouvrait une fenêtre invisible : rien ne
+s'affichait, mais le jeu semblait figé — plus moyen de cliquer sur le décor, et
+seule la touche Échap rendait la main. La fenêtre s'ouvrait bel et bien, mais son
+fond ne se dessinait pas, faute d'un fichier graphique rangé au mauvais endroit.
+C'est corrigé.
+
 ## 30 août 2026 — soir
 
 **Les armures dragon sont disponibles.**
