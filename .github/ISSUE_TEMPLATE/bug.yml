@@ -1,53 +1,53 @@
-name: Signaler un bug
-description: Quelque chose ne fonctionne pas comme prévu en jeu ou dans le launcher.
+name: Report a bug
+description: Something is not working as expected, in game or in the launcher.
 labels: ["bug"]
 body:
   - type: markdown
     attributes:
       value: |
-        Merci de prendre le temps de signaler ce problème. Plus votre description
-        est précise, plus la correction sera rapide.
+        Thanks for taking the time to report this. The more precise your
+        description, the faster the fix.
 
-        Si vous avez une capture d'écran, joignez-la : elle vaut souvent mieux
-        qu'une longue explication.
+        If you have a screenshot, attach it: it is often worth more than a
+        long explanation.
   - type: textarea
     id: description
     attributes:
-      label: Que s'est-il passé ?
-      description: Décrivez ce que vous avez observé.
-      placeholder: Le vaisseau n'apparaît pas à quai alors que le message d'arrivée s'affiche.
+      label: What happened?
+      description: Describe what you saw.
+      placeholder: The transport ship does not show up at the dock, even though the arrival message appears.
     validations:
       required: true
   - type: textarea
     id: reproduction
     attributes:
-      label: Comment le reproduire ?
-      description: Les étapes à suivre pour retomber sur le problème.
+      label: How can we reproduce it?
+      description: The steps to follow to run into the problem again.
       placeholder: |
-        1. Aller au quai de HQ Bellato
-        2. Attendre l'annonce d'arrivée
-        3. Le vaisseau reste invisible
+        1. Go to the Bellato HQ dock
+        2. Wait for the arrival announcement
+        3. The ship stays invisible
     validations:
       required: true
   - type: input
     id: quand
     attributes:
-      label: Quand ?
-      description: Date et heure approximatives, avec votre fuseau si vous n'êtes pas en France.
-      placeholder: 30/08 vers 14h30
+      label: When?
+      description: Approximate date and time, with your time zone.
+      placeholder: 30/08 around 2:30 pm (UTC+2)
   - type: input
     id: personnage
     attributes:
-      label: Personnage et race
+      label: Character and race
       placeholder: Pepito, Bellato
   - type: dropdown
     id: ou
     attributes:
-      label: Où ?
+      label: Where?
       options:
-        - En jeu
-        - Dans le launcher
-        - À l'installation
-        - Autre
+        - In game
+        - In the launcher
+        - During installation
+        - Other
     validations:
       required: true

@@ -1,16 +1,16 @@
-name: Proposer une idée
-description: Une suggestion pour améliorer le serveur.
+name: Suggest an idea
+description: A suggestion to improve the server.
 labels: ["suggestion"]
 body:
   - type: textarea
     id: idee
     attributes:
-      label: Votre idée
-      description: Ce que vous proposez, et ce que ça apporterait aux joueurs.
+      label: Your idea
+      description: What you are suggesting, and what it would bring to players.
     validations:
       required: true
   - type: textarea
     id: contexte
     attributes:
-      label: Contexte
-      description: Optionnel — ce qui vous amène à le proposer, ou comment ça se passe sur d'autres serveurs.
+      label: Context
+      description: Optional — what led you to suggest it, or how it works on other servers.
