@@ -5,6 +5,67 @@
 Les changements apportés au serveur et au client, du plus récent au plus ancien.
 Le launcher applique les mises à jour du client automatiquement au démarrage.
 
+## 27 septembre 2026
+
+**Les brochettes de la mi-automne se fabriquent à nouveau.**
+Le porc premium ne pouvait pas être détaché d'une pile : la combinaison partait
+avec la pile entière et se faisait refuser. Le porc portait une durée limitée, et
+un objet à durée limitée ne peut pas être scindé. La limite a été retirée. Rien
+n'a jamais été perdu dans les tentatives : le serveur n'en retirait qu'un
+exemplaire à chaque fois, quoi qu'affiche l'écran.
+
+**Fabriquer un bouclier fait monter la bonne maîtrise.**
+C'était l'armure qui était créditée. Quiconque fabriquait des boucliers
+remplissait une jauge qui n'avait rien à voir avec ce qu'il produisait.
+
+**La maîtrise monte désormais en ligne droite.**
+La première fabrication faisait faire un grand bond, puis la progression
+s'écrasait. Chaque fabrication fait maintenant avancer d'autant, jusqu'en haut.
+Personne ne perd rien : ceux qui sont au maximum y restent.
+
+**Les cristaux des guerres de chips tiennent beaucoup plus longtemps.**
+Les guerres se décidaient en bien moins de dix minutes en moyenne. Les cristaux
+sont nettement plus résistants, ce qui devrait porter une guerre autour de la
+demi-heure. Nous ajusterons encore après en avoir observé quelques-unes —
+dites-nous si ça bascule trop loin dans l'autre sens.
+
+**Les boîtes d'or ne donnaient rien du tout.**
+Une ouverture produisait très souvent une erreur et aucune récompense. La boîte
+n'était pas consommée, donc rien n'était perdu, mais rien n'était gagné non plus.
+C'est corrigé. La liste des récompenses a aussi été élargie : une boîte d'or tire
+maintenant parmi dix résultats possibles au lieu de deux.
+
+**La récompense rare du minerai d'or est plus rare.**
+Elle sortait bien plus souvent que prévu.
+
+**Deux coupons de réduction ne valaient presque rien.**
+Ils se revendaient pour une somme symbolique et ne servaient à rien d'autre. Ils
+ont désormais une vraie valeur.
+
+**Les prix de la boutique cash suivent la version de référence.**
+Un lot important de prix avait dérivé ; ils sont réalignés.
+
+**Le billet de retour d'Ether s'achète au niveau où la carte vous laisse entrer.**
+L'entrée était autorisée plusieurs niveaux avant que le billet ne soit
+achetable — il y avait donc une plage où l'on pouvait entrer sans pouvoir payer
+son retour.
+
+**Un ticket d'échange de gemmes ne faisait rien.**
+L'échange que sa description promettait était tout simplement absent de nos
+données. Il est rétabli. Deux versions de grade inférieur du même ticket restent
+en attente : aucune source ne dit ce qu'elles devaient rendre, et nous préférons
+les laisser en l'état plutôt qu'inventer une récompense.
+
+**Le fantôme de l'avant-poste accretia devrait être visible à nouveau.**
+Il était déclaré deux fois dans nos données, et ce qui est déclaré deux fois
+cesse d'être dessiné. Il n'avait pas non plus de fichiers d'apparence à lui ; il
+en a maintenant. Dites-nous si vous ne le voyez toujours pas.
+
+**Le changement de classe accorde un bonus de fabrication différent.**
+Les niveaux de maîtrise offerts lors d'un changement de classe ont été
+rééquilibrés. **Ce n'est pas rétroactif** — les personnages qui ont déjà changé
+de classe gardent ce qui leur a été donné.
+
 ## 19 septembre 2026
 
 **Le coupon de récompense premium est en service.**

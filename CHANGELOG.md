@@ -5,6 +5,65 @@
 Changes made to the server and the client, newest first. The launcher applies
 client updates automatically on startup.
 
+## 27 September 2026
+
+**The Mid-Autumn skewers can be crafted again.**
+The premium pork could not be split off a stack, so the combination was
+impossible — the whole stack went in and the craft was refused. The pork carried
+a time limit, and an item with a time limit cannot be split. The limit is gone.
+Nothing was ever lost in the attempts: the server only removed one piece each
+time, however the screen looked.
+
+**Crafting a shield now raises the right mastery.**
+It was crediting armour instead. Anyone who crafted shields was building a bar
+that had nothing to do with what they were making.
+
+**Mastery now rises in a straight line.**
+The first craft used to jump you a long way and then progress crawled to a stop.
+Every craft now advances you by the same amount, all the way to the top. Nobody
+loses anything: those already at maximum stay at maximum.
+
+**Chip war crystals last much longer.**
+Wars were being decided in well under ten minutes on average. The crystals are
+substantially tougher now, which should put a war in the half-hour range. We
+will adjust again once we have seen a few real ones — tell us if it swings too
+far the other way.
+
+**Gold boxes were giving nothing at all.**
+Opening one very often produced an error and no reward. The box was not consumed,
+so nothing was lost, but nothing was gained either. That is fixed. The reward
+list has also been widened: a gold box now draws from ten possible outcomes
+instead of two.
+
+**The rare gold-ore reward is rarer.**
+It was coming up far more often than intended.
+
+**Two discount coupons were worth almost nothing.**
+They sold for a token amount, and did nothing else. They now carry a real value.
+
+**Cash shop prices match the reference version.**
+A large batch of prices had drifted; they are aligned again.
+
+**The Ether return ticket can be bought at the level the map admits you.**
+Entry was allowed several levels before the ticket could be purchased, which left
+a gap where you could get in but not buy your way back.
+
+**A jewel exchange ticket did nothing.**
+The exchange its description promised was simply missing from our data. It has
+been restored. Two lower-grade versions of the same ticket are still pending —
+no source records what they were meant to hand back, and we would rather leave
+them than invent a reward.
+
+**The ghost at the accretia outpost should be visible again.**
+It was declared twice in our data, and anything declared twice stops being drawn.
+It also had no appearance files of its own; it now has them. Please tell us if
+you still cannot see it.
+
+**Changing class grants a different craft bonus.**
+The free mastery levels given at a class change have been rebalanced. **This is
+not retroactive** — characters who already changed class keep what they were
+given.
+
 ## 19 September 2026
 
 **The premium reward coupon is live.**
