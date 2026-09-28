@@ -5,6 +5,7 @@
 Les changements apportés au serveur et au client, du plus récent au plus ancien.
 Le launcher applique les mises à jour du client automatiquement au démarrage.
 
+<<<<<<< HEAD
 ## 27 septembre 2026
 
 **Les brochettes de la mi-automne se fabriquent à nouveau.**
@@ -65,6 +66,30 @@ en a maintenant. Dites-nous si vous ne le voyez toujours pas.
 Les niveaux de maîtrise offerts lors d'un changement de classe ont été
 rééquilibrés. **Ce n'est pas rétroactif** — les personnages qui ont déjà changé
 de classe gardent ce qui leur a été donné.
+=======
+## 28 septembre 2026
+
+**L'artisanat au-delà du niveau 55 s'affiche enfin à l'établi.**
+Les recettes de haut niveau étaient dans le jeu depuis des semaines, et
+personne ne pouvait les voir : la liste s'arrêtait au niveau 55 quoi que vous
+ayez en main. L'établi va désormais jusqu'au niveau 75.
+
+**Quarante-sept recettes de haut grade arrivent avec.**
+Elles prennent place parmi les existantes, dans leurs familles d'armes et
+d'armures.
+
+**Plusieurs monstres ont été rééquilibrés.**
+Leurs points de vie sont alignés sur les valeurs officielles. Certains sont
+plus coriaces qu'avant chez nous, d'autres plus faciles.
+
+**Les récompenses des boss retrouvent les taux officiels.**
+Quelques-uns des plus hauts boss distribuaient leurs meilleurs grades beaucoup
+plus souvent qu'ils n'auraient dû. C'est corrigé.
+
+**Deux nouveaux boss de monde apparaissent.**
+Huge Beacon et Stocker Lava se montrent d'eux-mêmes, et **leur butin est ouvert
+à tous** : qui que soit celui qui porte le coup fatal, chacun peut ramasser.
+>>>>>>> ebf4861 (Changelog: 28 September 2026 -- crafting above 55, rebalancing, two world bosses)
 
 ## 19 septembre 2026
 
