@@ -5,7 +5,27 @@
 Changes made to the server and the client, newest first. The launcher applies
 client updates automatically on startup.
 
-<<<<<<< HEAD
+## 28 September 2026
+
+**Crafting above level 55 finally shows up at the workbench.**
+The high-level recipes had been in the game for weeks, and nobody could see
+them. The list stopped at level 55 no matter what you were carrying. The
+workbench now goes all the way to level 75.
+
+**Forty-seven new high-grade recipes come with it.**
+They sit alongside the existing ones, in their own weapon and armour families.
+
+**Several monsters have been rebalanced.**
+Their health has been brought in line with the official values. Some are
+tougher than they were here, some are easier.
+
+**Boss rewards match the official rates again.**
+A handful of the highest bosses were handing out their better grades far more
+often than they should. That is corrected.
+
+**Two new world bosses now appear.**
+Huge Beacon and Stocker Lava show up on their own, and **their loot is open to
+everyone** -- whoever lands the kill, anyone nearby can pick it up.
 ## 27 September 2026
 
 **The Mid-Autumn skewers can be crafted again.**
@@ -64,29 +84,6 @@ you still cannot see it.
 The free mastery levels given at a class change have been rebalanced. **This is
 not retroactive** — characters who already changed class keep what they were
 given.
-=======
-## 28 September 2026
-
-**Crafting above level 55 finally shows up at the workbench.**
-The high-level recipes had been in the game for weeks, and nobody could see
-them. The list stopped at level 55 no matter what you were carrying. The
-workbench now goes all the way to level 75.
-
-**Forty-seven new high-grade recipes come with it.**
-They sit alongside the existing ones, in their own weapon and armour families.
-
-**Several monsters have been rebalanced.**
-Their health has been brought in line with the official values. Some are
-tougher than they were here, some are easier.
-
-**Boss rewards match the official rates again.**
-A handful of the highest bosses were handing out their better grades far more
-often than they should. That is corrected.
-
-**Two new world bosses now appear.**
-Huge Beacon and Stocker Lava show up on their own, and **their loot is open to
-everyone** -- whoever lands the kill, anyone nearby can pick it up.
->>>>>>> ebf4861 (Changelog: 28 September 2026 -- crafting above 55, rebalancing, two world bosses)
 
 ## 19 September 2026
 
