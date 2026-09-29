@@ -5,6 +5,18 @@
 Les changements apportés au serveur et au client, du plus récent au plus ancien.
 Le launcher applique les mises à jour du client automatiquement au démarrage.
 
+## 29 septembre 2026
+
+**Cliquer sur une recette d'artisanat de haut niveau pouvait fermer le jeu.**
+Ouvrir l'etabli fonctionnait, mais cliquer sur certaines recettes a partir du
+niveau 65 fermait le client sur-le-champ -- sans message, sans avertissement.
+Ca arrivait a tout le monde, pas a quelques-uns. C'est corrige.
+
+**Quelques noms de pieces d'artisanat sont un peu plus courts.**
+Les pieces que vous combinez en recettes s'appellent desormais, par exemple,
+"Lv.65 Type B Weapon Piece" au lieu du nom plus long qu'elles portaient. Memes
+objets, memes recettes, rien d'autre ne change -- seulement le libelle.
+
 ## 28 septembre 2026
 
 **L'artisanat au-delà du niveau 55 s'affiche enfin à l'établi.**

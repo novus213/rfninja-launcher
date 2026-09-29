@@ -5,6 +5,18 @@
 Changes made to the server and the client, newest first. The launcher applies
 client updates automatically on startup.
 
+## 29 September 2026
+
+**Clicking a high-level crafting recipe could close the game.**
+Opening the workbench was fine, but clicking certain recipes from levels 65 and
+above shut the client down on the spot -- no message, no warning. It happened to
+anyone who tried, not just a few people. It is fixed.
+
+**Some crafting piece names are a little shorter.**
+The pieces you combine into recipes now read, for example, "Lv.65 Type B Weapon
+Piece" instead of the longer name they had. Same items, same recipes, nothing
+else changed -- only the label.
+
 ## 28 September 2026
 
 **Crafting above level 55 finally shows up at the workbench.**
