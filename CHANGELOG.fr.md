@@ -5,6 +5,21 @@
 Les changements apportés au serveur et au client, du plus récent au plus ancien.
 Le launcher applique les mises à jour du client automatiquement au démarrage.
 
+## 1er octobre 2026
+
+**Un composant technique du client a ete mis a la version officielle courante.**
+Rien ne change dans l'apparence ni dans le jeu : il s'agit d'une brique que le
+client charge au demarrage, et c'est desormais la version livree par les auteurs
+du moteur plutot que celle, un peu plus ancienne, que nous portions. Le launcher
+l'applique tout seul ; vous n'avez rien a reinstaller.
+
+Autant le dire plutot que de le taire : ce composant touche de pres a la couche
+graphique, et c'est la premiere fois que nous le mettons a jour par le launcher.
+Il a ete teste ici et le jeu tourne normalement -- mais si vous remarquez quoi
+que ce soit d'anormal au demarrage, ou un comportement d'affichage qui n'existait
+pas avant, dites-le nous sur Discord ou ouvrez une issue. Nous preferons
+l'apprendre vite plutot que quelqu'un s'acharne dans son coin.
+
 ## 29 septembre 2026
 
 **Cliquer sur une recette d'artisanat de haut niveau pouvait fermer le jeu.**

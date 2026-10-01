@@ -5,6 +5,22 @@
 Changes made to the server and the client, newest first. The launcher applies
 client updates automatically on startup.
 
+## 1 October 2026
+
+**A technical component of the client has been brought up to the current
+official version.**
+Nothing changes in how the game looks or plays — this is a background piece the
+client loads at startup, and it is now the version shipped by the engine's
+authors rather than the slightly older one we had been carrying. The launcher
+applies it on its own; you do not need to reinstall anything.
+
+Worth mentioning rather than leaving silent: this component sits close to the
+graphics layer, and it is the first time we have updated it through the
+launcher. It has been tested here and the game runs normally — but if you
+notice anything odd at startup, or any display behaviour that was not there
+before, please tell us on Discord or open an issue. We would rather hear about
+it quickly than have someone struggle in silence.
+
 ## 29 September 2026
 
 **Clicking a high-level crafting recipe could close the game.**
