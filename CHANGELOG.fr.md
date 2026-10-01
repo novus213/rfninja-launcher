@@ -7,6 +7,48 @@ Le launcher applique les mises à jour du client automatiquement au démarrage.
 
 ## 1er octobre 2026
 
+**Des récompenses de quêtes quotidiennes que vous ne pouviez pas utiliser.**
+Plusieurs quotidiennes donnaient une potion d'expérience réservée à une tranche
+de niveaux inférieure à celle de la quête. En haut de la tranche, la potion
+refusait simplement d'être bue : vous aviez gagné une récompense à laquelle
+vous ne pouviez pas toucher. Trente quêtes étaient concernées. Elles donnent
+désormais la potion de leur propre tranche, les six du palier le plus haut en
+donnent une (elles n'en donnaient aucune), et les quantités correspondent à ce
+qu'elles étaient censées remettre. Plusieurs y ajoutent aussi un parchemin de
+voyage et un éclat de cristal qu'elles auraient dû contenir.
+
+**Le Sympathy Charm ne faisait absolument rien.**
+Un joueur l'a signalé, a mené les comparaisons lui-même, et il avait raison :
+le charme n'avait aucun effet sur un animus. Ce n'était pas une valeur réglée
+trop bas — le bonus qu'il était censé donner n'était tout simplement plus lu
+par cette version du jeu. Nous l'avons réimplémenté. Il augmente désormais
+l'attaque de votre animus tant qu'il est dans votre inventaire, il se cumule
+jusqu'à un plafond, et il ne se consomme pas. Les charmes sont également de
+nouveau en vente chez les marchands Cora, où ils avaient discrètement cessé
+d'être proposés.
+
+**Échangez votre temps de chasse contre un Premium Pass.**
+Une nouvelle option chez le PNJ premium : si vous n'êtes pas premium, le temps
+que vous passez réellement à chasser peut être échangé contre un pass. Cinq
+heures de chasse valent un jour de premium, soit trente-cinq heures pour le
+pass de sept jours. Le compteur suit votre compte et non un seul personnage, il
+survit aux reconnexions, et seul le temps avec une activité réelle compte —
+rester immobile n'accumule rien.
+
+**Les tours de garde ne peuvent plus être posées presque l'une sur l'autre.**
+Nous avions assoupli la distance minimale entre deux tours il y a quelques
+semaines, parce qu'elle s'était révélée pénible. Des joueurs ont fait remarquer
+que c'était allé trop loin dans l'autre sens. Retour à la règle d'origine : une
+tour doit être posée hors du rayon d'une autre.
+
+**Le serveur saccadait, brièvement mais sans arrêt.**
+De courts gels, une fraction de seconde, qui revenaient. Tout le monde les
+ressentait au même instant parce qu'ils venaient du serveur lui-même, et non
+de la connexion de chacun. La cause était un réglage de la machine que personne
+n'avait choisi : il venait d'une valeur par défaut. Corrigé, et mesuré avant et
+après.
+
+
 **Un composant technique du client a ete mis a la version officielle courante.**
 Rien ne change dans l'apparence ni dans le jeu : il s'agit d'une brique que le
 client charge au demarrage, et c'est desormais la version livree par les auteurs

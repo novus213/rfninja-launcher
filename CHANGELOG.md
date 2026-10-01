@@ -7,6 +7,45 @@ client updates automatically on startup.
 
 ## 1 October 2026
 
+**Daily quest rewards you could not actually use.**
+Several daily quests handed out an experience potion locked to a level range
+below the quest's own. If you were at the top of the bracket, the potion simply
+refused to be drunk — you had earned a reward you could not touch. Thirty
+quests were affected. They now give the potion that matches their own level
+range, the six highest-tier quests give one at all (they gave none), and the
+quantities now match what the quests were meant to hand out. Several of them
+also hand out a travel scroll and a crystal shard they were supposed to include
+and did not.
+
+**The Sympathy Charm did nothing at all.**
+A player reported it, ran the comparisons himself, and he was right: the charm
+had no effect on an animus whatsoever. This was not a value set too low — the
+bonus it was designed to give had simply stopped being read by this version of
+the game. We have reimplemented it. It now adds to your animus's attack while
+the charm is in your inventory, it stacks up to a ceiling, and it is not
+consumed. The charms are also on sale again at the Cora merchants, where they
+had quietly stopped being stocked.
+
+**Trade your hunting time for a Premium Pass.**
+A new option at the premium NPC: if you are not premium, the time you spend
+actually hunting can be exchanged for a pass. Five hours of hunting buys one
+day of premium, so thirty-five hours for the seven-day pass. The counter
+follows your account rather than a single character, it survives relogging, and
+only time with real activity counts — standing still does not accumulate.
+
+**Guard towers can no longer be placed almost on top of each other.**
+We had loosened the minimum distance between two towers some weeks ago, after
+it proved frustratingly large. Players pointed out it had gone too far the
+other way. It is back to the original rule: a tower has to be placed clear of
+another one's own radius.
+
+**The server was stuttering, briefly but constantly.**
+Short freezes, a fraction of a second, repeating. Everyone felt them at the
+same moment because they came from the server itself, not from anyone's
+connection. The cause was a setting on the machine that nobody had chosen — it
+came from a default. Fixed, and measured before and after.
+
+
 **A technical component of the client has been brought up to the current
 official version.**
 Nothing changes in how the game looks or plays — this is a background piece the
