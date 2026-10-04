@@ -5,6 +5,71 @@
 Changes made to the server and the client, newest first. The launcher applies
 client updates automatically on startup.
 
+## 4 October 2026
+
+**The cure potion was wiping debuffs instead of shortening them.**
+A player reported this, we told him it was working as intended, and he came
+back a second time to say it was not. He was right. Using it now halves the
+remaining duration of what is on you, rather than clearing it outright. The
+description was never the thing that was wrong.
+
+**Two new sort options at the auction house.**
+You can now sort listings by *Ends soon* and by *Newest*, alongside the price
+and level options that were already there. If you used the level sorts, check
+them once and tell us if anything looks off.
+
+**Archon-grade armour for levels 60, 65 and 70 is now on sale.**
+The three hero merchants were stocking these sets up to level 55 and no
+further, even though the higher pieces existed in full. All three tiers are
+now available at the same counters.
+
+**Chip wars last longer.**
+The war crystals now take considerably more punishment before going down.
+The intent is to give a race that loses the opening push the time to actually
+mount a counter-attack, instead of the war being decided in the first
+minutes.
+
+**Six MAU ammunition types did nothing.**
+They could be loaded and fired, and they were not linked to any weapon, so
+they simply had no effect. They work now.
+
+**Three different helmets all called "White Dragon Bone Head".**
+They are a full helm, a pair of goggles and an amice, and they now say so.
+
+**Archon helmets no longer show on male Bellato and Cora characters.**
+This one is deliberate, and it is a step backwards that we chose on purpose.
+These helmets had no artwork of their own for male characters — the original
+developers never made any. What we had been doing was borrowing the look of
+other helmets, which meant your Archon helmet looked like somebody else's
+gear, and at some tiers like a beginner's headband. The official game does
+not show them at all, so neither do we now. The helmets still work and still
+give their stats; they are just not drawn.
+
+**Two character texture packs.**
+Updated default textures for female Cora and female Bellato.
+
+## 2-3 October 2026
+
+**The banker refused deposits that should have fit.**
+The gold ceiling the banker checked against was out of date, so perfectly
+valid deposits were being turned away.
+
+**The auction house now works across all three races**, and it announces
+notable listings in-game.
+
+**A cash-shop grenade that did no damage at all.**
+It fired, it was consumed, and it dealt nothing — while being on sale. Fixed.
+
+**Craft recipes at the level 67 tier have been brought in line with the
+official game.** A few dedicated recipes were a large shortcut around the
+normal crafting odds; the official game does not have them, and now neither
+do we. The standard recipes for those items are untouched.
+
+**Armour appearance aligned with the official game** on a large batch of
+sets. Only the 3D model changed — stats, effects and defence are identical.
+
+**Female Archon helmets** now show the right model at every tier.
+
 ## 1 October 2026
 
 **Daily quest rewards you could not actually use.**

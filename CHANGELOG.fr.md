@@ -5,6 +5,76 @@
 Les changements apportés au serveur et au client, du plus récent au plus ancien.
 Le launcher applique les mises à jour du client automatiquement au démarrage.
 
+## 4 octobre 2026
+
+**La potion de soin effaçait les altérations au lieu de les raccourcir.**
+Un joueur l'a signalé, nous lui avons répondu que c'était le comportement
+prévu, et il est revenu une seconde fois pour dire que non. Il avait raison.
+Elle réduit désormais de moitié le temps restant de ce que vous subissez, au
+lieu de tout effacer. La description, elle, n'a jamais été en cause.
+
+**Deux nouveaux tris à l'hôtel des ventes.**
+Vous pouvez maintenant trier par *Se termine bientôt* et par *Nouveautés*, en
+plus des tris par prix et par niveau qui existaient déjà. Si vous utilisiez
+les tris par niveau, vérifiez-les une fois et dites-nous si quelque chose
+cloche.
+
+**Les armures de rang Archon des niveaux 60, 65 et 70 sont en vente.**
+Les trois marchands héros s'arrêtaient au niveau 55, alors que les pièces
+supérieures existaient au complet. Les trois paliers sont désormais
+disponibles aux mêmes comptoirs.
+
+**Les guerres de chips durent plus longtemps.**
+Les crystals encaissent nettement plus avant de tomber. L'idée est de laisser
+à une race qui perd l'assaut initial le temps de monter une vraie
+contre-attaque, au lieu que la guerre se joue dans les premières minutes.
+
+**Six munitions de MAU ne faisaient rien.**
+Elles se chargeaient et se tiraient, mais n'étaient rattachées à aucune arme :
+aucun effet. Elles fonctionnent.
+
+**Trois casques différents portaient tous le nom « White Dragon Bone Head ».**
+Ce sont un heaume, des lunettes et une aumusse, et ils le disent maintenant.
+
+**Les casques Archon ne s'affichent plus sur les personnages masculins
+Bellato et Cora.**
+C'est volontaire, et c'est un recul que nous avons choisi. Ces casques n'ont
+jamais eu de modèle propre pour les personnages masculins — les développeurs
+d'origine n'en ont pas fait. Ce que nous faisions jusqu'ici, c'était emprunter
+l'apparence d'autres casques : votre casque Archon ressemblait donc à
+l'équipement de quelqu'un d'autre, et à certains paliers à un bandeau de
+débutant. Le jeu officiel ne les affiche pas du tout ; nous faisons pareil.
+Les casques fonctionnent toujours et donnent toujours leurs caractéristiques,
+ils ne sont simplement plus dessinés.
+
+**Deux packs de textures de personnage.**
+Textures par défaut mises à jour pour les Cora féminines et les Bellato
+féminines.
+
+## 2-3 octobre 2026
+
+**Le banquier refusait des dépôts qui auraient dû passer.**
+Le plafond d'or qu'il vérifiait était périmé : des dépôts parfaitement valides
+étaient rejetés.
+
+**L'hôtel des ventes fonctionne désormais entre les trois races**, et il
+annonce en jeu les mises en vente notables.
+
+**Une grenade de la boutique cash n'infligeait aucun dégât.**
+Elle partait, elle se consommait, et elle ne faisait rien — alors qu'elle
+était en vente. Corrigé.
+
+**Les recettes d'artisanat du palier 67 ont été alignées sur le jeu
+officiel.** Quelques recettes dédiées constituaient un raccourci important
+autour des chances d'artisanat normales ; le jeu officiel ne les a pas, nous
+non plus désormais. Les recettes standard de ces objets ne changent pas.
+
+**L'apparence des armures alignée sur le jeu officiel** sur un gros lot de
+panoplies. Seul le modèle 3D change — caractéristiques, effets et défense sont
+identiques.
+
+**Les casques Archon féminins** affichent le bon modèle à tous les paliers.
+
 ## 1er octobre 2026
 
 **Des récompenses de quêtes quotidiennes que vous ne pouviez pas utiliser.**
