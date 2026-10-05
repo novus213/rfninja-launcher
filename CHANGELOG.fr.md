@@ -7,6 +7,15 @@ Le launcher applique les mises à jour du client automatiquement au démarrage.
 
 ## 5 octobre 2026
 
+**Le plafond de maîtrise Force était trop bas en dessous du niveau 50.**
+Un joueur l'a repéré : le plafond de Force suivait votre niveau comme ceux de
+Mêlée et de Distance, au lieu de rester à 99 dès le niveau 1 comme il le
+devrait. Tout le monde en dessous du niveau 50 était concerné, les quatre
+classes, toutes races. C'est aussi ce qui faisait afficher la barre de Force
+au-dessus de son propre plafond — spectaculaire, mais sans gravité : aucune
+donnée de personnage n'a jamais été fausse, seul le nombre à côté l'était.
+C'est corrigé.
+
 **Les Sympathy Charms ne faisaient strictement rien.**
 Le charme devait donner à votre animus une chance de bonus de dégâts quand il
 attaque. Il ne s'est jamais déclenché une seule fois -- pas un effet réduit,

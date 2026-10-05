@@ -7,6 +7,13 @@ client updates automatically on startup.
 
 ## 5 October 2026
 
+**Force mastery was capped too low below level 50.**
+A player spotted this: the Force cap was following your level like Melee and
+Range do, instead of sitting flat at 99 from level 1 as it should. Everyone
+below level 50 was affected, all four classes, on every race. It also made the
+Force bar read above its own cap, which looked alarming and was not: no
+character data was ever wrong, only the number printed next to it. Fixed.
+
 **Sympathy Charms did nothing at all.**
 The charm was supposed to give your animus a chance at a damage bonus when it
 attacks. It never fired once -- not a reduced effect, not a rare one: the code
