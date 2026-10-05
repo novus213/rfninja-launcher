@@ -5,6 +5,29 @@
 Changes made to the server and the client, newest first. The launcher applies
 client updates automatically on startup.
 
+## 5 October 2026
+
+**Sympathy Charms did nothing at all.**
+The charm was supposed to give your animus a chance at a damage bonus when it
+attacks. It never fired once -- not a reduced effect, not a rare one: the code
+that was meant to grant it was never reached. It works now, and we watched it
+land in game before saying so. The charms are back on sale at the merchants
+and in the cash shop, where we had pulled them that same morning precisely
+because they were inert.
+
+**Communion Crystals are on sale again.**
+They are back at the merchant counters.
+
+**Three cash shop grenades had no effect.**
+They could be bought and thrown, and nothing happened. They work now.
+
+**Guard towers now assist.**
+The towers were never picking targets the way they were meant to. They do now.
+
+**Missing sounds.**
+A number of effects were silent because the client was asking for sound files
+it did not have. Most of that silence is gone.
+
 ## 4 October 2026
 
 **The cure potion was wiping debuffs instead of shortening them.**

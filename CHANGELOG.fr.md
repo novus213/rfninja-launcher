@@ -5,6 +5,32 @@
 Les changements apportés au serveur et au client, du plus récent au plus ancien.
 Le launcher applique les mises à jour du client automatiquement au démarrage.
 
+## 5 octobre 2026
+
+**Les Sympathy Charms ne faisaient strictement rien.**
+Le charme devait donner à votre animus une chance de bonus de dégâts quand il
+attaque. Il ne s'est jamais déclenché une seule fois -- pas un effet réduit,
+pas un effet rare : le code censé l'accorder n'était jamais atteint. Il
+fonctionne maintenant, et nous l'avons vu tomber en jeu avant de l'écrire. Les
+charmes sont de nouveau en vente chez les marchands et à la boutique cash,
+d'où nous les avions retirés le matin même précisément parce qu'ils étaient
+inertes.
+
+**Les Communion Crystals sont de nouveau en vente.**
+Elles sont revenues aux comptoirs des marchands.
+
+**Trois grenades de la boutique cash n'avaient aucun effet.**
+On pouvait les acheter et les lancer, il ne se passait rien. Elles
+fonctionnent.
+
+**Les tours de garde assistent enfin.**
+Les tours ne choisissaient pas leurs cibles comme elles auraient dû. C'est
+corrigé.
+
+**Des sons manquants.**
+Plusieurs effets étaient muets parce que le client réclamait des fichiers son
+qu'il n'avait pas. L'essentiel de ce silence a disparu.
+
 ## 4 octobre 2026
 
 **La potion de soin effaçait les altérations au lieu de les raccourcir.**
