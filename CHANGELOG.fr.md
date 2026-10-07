@@ -2,6 +2,36 @@
 
 # Journal des modifications
 
+## 8 octobre 2026
+
+**Un objet revenu de l'hôtel des ventes peut de nouveau être remis en vente.**
+Quand un objet revenait invendu, essayer de le remettre en vente répondait par
+une erreur et il ne se passait rien. Ça n'avait jamais fonctionné. La remise en
+vente aboutit désormais, et nous avons vérifié en jeu que l'objet n'est pas
+dupliqué au passage : il reste un seul exemplaire, exactement comme avant.
+
+**Deux correctifs de combat que vous pourriez sentir.**
+Les résultats d'attaque étaient envoyés à votre client avec deux informations
+dans le mauvais ordre, que le client lisait donc à l'envers. Et dans les
+combats de siège, une valeur manquait complètement au message, ce qui décalait
+tout ce qui suivait. Les deux sont corrigés. Par ailleurs, la défense était
+calculée à partir de la mauvaise statistique — elle lisait votre esquive là où
+elle aurait dû lire votre défense.
+
+**Certains gardes de Sette lâchent maintenant du minerai.**
+Seize des gardes autour de Sette lâchent désormais du minerai de couleurs
+variées. Les déserteurs nommés Turncoat n'en font pas partie.
+
+**L'écran des crédits est enfin le nôtre.**
+Cliquer sur Credits affichait le message d'accueil d'un autre opérateur. Il
+affiche maintenant RF NINJA, avec la version. Les crédits d'origine de CCR
+n'ont pas été touchés — ce sont eux qui ont fait ce jeu, et ils restent.
+
+**Les redémarrages vous déconnectent proprement.**
+Quand un redémarrage est annoncé, vous êtes désormais déconnecté correctement
+dans les dernières secondes avant la coupure, au lieu d'être coupé net. Votre
+personnage est sauvegardé en sortant, comme lors d'une déconnexion normale.
+
 Les changements apportés au serveur et au client, du plus récent au plus ancien.
 Le launcher applique les mises à jour du client automatiquement au démarrage.
 

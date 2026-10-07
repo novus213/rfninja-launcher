@@ -2,6 +2,36 @@
 
 # Changelog
 
+## 8 October 2026
+
+**You can put an expired auction item back on sale again.**
+When an item came back from the auction house unsold, trying to list it again
+answered with an error and nothing happened. It had never worked. The listing
+goes through now, and we checked in game that the item is not duplicated along
+the way: it stays a single item, exactly as before.
+
+**Two combat fixes you may actually feel.**
+Attack results were being sent to your client with two pieces of information in
+the wrong order, so the client read them the wrong way round. And in siege
+fights one value was missing from the message entirely, which shifted
+everything after it. Both are corrected. Separately, defence was being
+calculated from the wrong statistic -- it was reading your evasion where it
+should have read your defence.
+
+**Some Sette guards now drop ore.**
+Sixteen of the guards around Sette now drop ore of mixed colours. Deserters
+named Turncoat are not among them.
+
+**The credits screen is ours now.**
+Clicking Credits showed another operator's welcome message. It now says RF
+NINJA, with the version. The original CCR credits are untouched -- they are the
+people who made this game, and they stay.
+
+**Restarts now log you out cleanly.**
+When a restart is announced, you are now disconnected properly in the last
+seconds before the server goes down, instead of being cut off. Your character
+is saved on the way out, the same as a normal logout.
+
 Changes made to the server and the client, newest first. The launcher applies
 client updates automatically on startup.
 
