@@ -4,6 +4,16 @@
 
 ## 8 octobre 2026
 
+**L'artisanat d'equipement ne rate plus.**
+Fabriquer une arme, un bouclier ou une piece d'armure pouvait echouer, et une
+tentative ratee consommait quand meme vos materiaux. Plus le niveau de l'objet
+etait eleve, plus c'etait frequent -- et au-dela d'un certain niveau la
+fabrication ne pouvait plus reussir du tout, quelle que soit votre maitrise.
+Ce n'est pas ainsi que cela doit fonctionner : l'artisanat produit toujours un
+objet, et seul le grade est laisse au hasard. C'est le cas desormais. Le grade
+reste tire au sort, exactement comme avant -- cette partie-la etait juste depuis
+le debut. L'artisanat de munitions est inchange.
+
 **Un objet revenu de l'hôtel des ventes peut de nouveau être remis en vente.**
 Quand un objet revenait invendu, essayer de le remettre en vente répondait par
 une erreur et il ne se passait rien. Ça n'avait jamais fonctionné. La remise en

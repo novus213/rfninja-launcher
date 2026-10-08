@@ -4,6 +4,15 @@
 
 ## 8 October 2026
 
+**Crafting equipment no longer fails.**
+Making a weapon, a shield or a piece of armour could fail, and a failed attempt
+still consumed your materials. The higher the item level, the more often it
+happened -- and past a certain level it could never succeed at all, however high
+your crafting mastery was. That was never how it is supposed to work: crafting
+always produces an item, and only the grade is left to chance. It does now. The
+grade is still a lottery, exactly as before -- that part was correct the whole
+time. Ammunition crafting is unchanged.
+
 **You can put an expired auction item back on sale again.**
 When an item came back from the auction house unsold, trying to list it again
 answered with an error and nothing happened. It had never worked. The listing
