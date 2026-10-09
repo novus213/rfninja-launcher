@@ -2,6 +2,14 @@
 
 # Journal des modifications
 
+## 9 octobre 2026
+
+**Deux noms d'effet manquaient dans le client russe.**
+Un effet de munition et un effet de potion n'affichaient aucun nom dans la
+version russe du jeu -- la ligne de l'infobulle restait vide. Les deux noms
+s'affichent desormais. Seul le client russe etait concerne ; les versions
+anglaises les portaient deja.
+
 ## 8 octobre 2026
 
 **L'artisanat d'equipement ne rate plus.**

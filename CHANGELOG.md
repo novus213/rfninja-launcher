@@ -2,6 +2,13 @@
 
 # Changelog
 
+## 9 October 2026
+
+**Two effect names were missing in the Russian client.**
+One ammunition effect and one potion effect showed no name at all in the Russian
+version of the game -- the tooltip line was simply blank. Both names now appear.
+Only the Russian client was affected; the English versions already had them.
+
 ## 8 October 2026
 
 **Crafting equipment no longer fails.**
