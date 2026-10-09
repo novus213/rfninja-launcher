@@ -4,6 +4,32 @@
 
 ## 9 October 2026
 
+**The Halloween event has started: Night of the Tricksters.**
+Until November 15, built for levels 1 to 55. Monsters can drop Mischievous
+Candies, the Foreign Vendor in every HQ has a daily "Trick or Treat!" gift,
+invaders raid the HQs several times a day, and a final boss appears twice a
+day. Halloween weapons, the Spooky ladder and an everlasting Scream Mask can be
+made from the event rewards. The full rules are on Discord, and the boss time
+windows are on the Pit Boss page of the website.
+
+**Discount Jades now do what they say.**
+These jades were sold in the cash shop but had no effect on MAU repair costs.
+Keeping them in your bag now lowers the repair bill as their description says.
+The one player who had bought some has been refunded.
+
+**Chip Wars should last longer.**
+The Holy Stones are tougher, so a Chip War no longer ends in a few minutes and
+every race has time to organise a counter-attack.
+
+**Auto-loot picks up items from further away.**
+You no longer have to stand right next to a monster for its drops to reach you.
+
+**Hundreds of item names and descriptions fixed.**
+Many descriptions showed question marks instead of text, some were cut in the
+middle of a sentence, two generators said the opposite of what they do, and a
+voucher still showed a test text. The "Booster Parts" boxes are now correctly
+named "Cloak Parts". The Scream Mask descriptions now say which ones are rented.
+
 **Two effect names were missing in the Russian client.**
 One ammunition effect and one potion effect showed no name at all in the Russian
 version of the game -- the tooltip line was simply blank. Both names now appear.

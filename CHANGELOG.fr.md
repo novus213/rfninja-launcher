@@ -4,6 +4,34 @@
 
 ## 9 octobre 2026
 
+**L'événement d'Halloween a commencé : la Nuit des Farceurs.**
+Jusqu'au 15 novembre, pensé pour les niveaux 1 à 55. Les monstres peuvent
+lâcher des Bonbons Malicieux, le Foreign Vendor de chaque QG offre un cadeau
+quotidien « Trick or Treat! », des envahisseurs attaquent les QG plusieurs fois
+par jour, et un boss final apparaît deux fois par jour. Les armes d'Halloween,
+l'échelle Spooky et un Scream Mask éternel se fabriquent avec les récompenses
+de l'événement. Les règles complètes sont sur Discord, et les créneaux du boss
+sur la page Pit Boss du site.
+
+**Les Discount Jades font enfin ce qu'elles annoncent.**
+Ces jades étaient vendues en boutique cash mais ne changeaient rien au coût de
+réparation des MAU. Les garder dans le sac réduit maintenant la facture comme
+l'indique leur description. Le seul joueur qui en avait acheté a été remboursé.
+
+**Les Chip Wars devraient durer plus longtemps.**
+Les Holy Stones sont plus résistantes : une Chip War ne se termine plus en
+quelques minutes, et chaque race a le temps d'organiser une contre-attaque.
+
+**Le ramassage automatique porte plus loin.**
+Il n'est plus nécessaire de se coller au monstre pour que son butin arrive.
+
+**Des centaines de noms et de descriptions d'objets corrigés.**
+Beaucoup de descriptions affichaient des points d'interrogation au lieu du
+texte, certaines étaient coupées en pleine phrase, deux générateurs disaient
+l'inverse de ce qu'ils font, et un bon affichait encore un texte d'essai. Les
+boîtes « Booster Parts » s'appellent désormais correctement « Cloak Parts ».
+Les descriptions des Scream Masks indiquent maintenant lesquels sont loués.
+
 **Deux noms d'effet manquaient dans le client russe.**
 Un effet de munition et un effet de potion n'affichaient aucun nom dans la
 version russe du jeu -- la ligne de l'infobulle restait vide. Les deux noms
