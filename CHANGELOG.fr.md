@@ -2,6 +2,24 @@
 
 # Journal des modifications
 
+## 10 octobre 2026
+
+**Les armes d'Halloween montent maintenant jusqu'au niveau 55.**
+Au PNJ héros, une arme d'Halloween niveau 50 permanente combinée à 10 Bonbons
+Malicieux devient toujours la version niveau 55 de la même arme, avec un
+nombre aléatoire d'emplacements de talic vides.
+
+**Échangez vos bonbons.**
+Le PNJ héros échange désormais les Bonbons Malicieux contre une Citrouille
+Suspecte, une recette d'arme d'Halloween de votre race, ou une boîte de Scream
+Mask de votre race et de votre classe : les joueurs qui ne croisent pas les
+invasions progressent quand même.
+
+**Les boîtes de Scream Mask affichent leur nom et la bonne règle.**
+Les boîtes de masque de l'événement n'avaient pas de nom et demandaient +5.
+Elles affichent maintenant leur nom et indiquent +4, la même règle que les
+masques eux-mêmes.
+
 ## 9 octobre 2026
 
 **L'événement d'Halloween a commencé : la Nuit des Farceurs.**

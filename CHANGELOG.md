@@ -2,6 +2,22 @@
 
 # Changelog
 
+## 10 October 2026
+
+**Halloween weapons now go up to level 55.**
+At the Hero NPC, a permanent level 50 Halloween weapon combined with 10
+Mischievous Candies always becomes the level 55 version of the same weapon,
+with a random number of empty talic slots.
+
+**Trade your candies.**
+The Hero NPC now exchanges Mischievous Candies for a Suspicious Pumpkin, a
+Halloween weapon recipe for your race, or a Scream Mask box for your race and
+class, so players who cannot catch the invasions still progress.
+
+**Scream Mask boxes show their name and the right rule.**
+The event mask boxes had no name and asked for +5. They now show their name
+and say +4, the same rule as the masks themselves.
+
 ## 9 October 2026
 
 **The Halloween event has started: Night of the Tricksters.**
