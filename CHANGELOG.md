@@ -4,6 +4,19 @@
 
 ## 10 October 2026
 
+**Spooky Skull Ring and Necklace: a permanent last step.**
+At +4, combine the ring or necklace with 40 Suspicious Pumpkins at the Hero
+NPC: on success it becomes the permanent Grim Skull Ring or Creepy Skull
+Necklace. Three of them can be combined into a coupon that gives a boss
+accessory of your choice. Their description now says so.
+
+**Candy exchange fixed.**
+Exchanging 15, 30 or 60 candies at the Hero NPC always failed if your stack
+held more candies than that. It now takes the number you place and leaves the
+rest of the stack in your bag.
+
+**Halloween recipes close with the event, on November 15.**
+
 **The Expedition Commemoration set now works.**
 The Volcano and Elan rings and the Volcano and Novas amulets never activated
 their set bonus, and their tooltip showed no set section. Any 2 pieces now give

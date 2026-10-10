@@ -4,6 +4,19 @@
 
 ## 10 octobre 2026
 
+**Bague et collier Spooky : une dernière étape permanente.**
+Au +4, combinez la bague ou le collier avec 40 Suspicious Pumpkins au PNJ héros :
+en cas de réussite, il devient le Grim Skull Ring ou le Creepy Skull Necklace,
+permanents. Trois d'entre eux se combinent en un coupon qui donne un accessoire
+de boss au choix. Leur description l'indique désormais.
+
+**L'échange de bonbons est réparé.**
+Échanger 15, 30 ou 60 bonbons au PNJ héros échouait toujours si votre pile en
+contenait davantage. Il prend maintenant le nombre que vous placez et laisse le
+reste de la pile dans votre sac.
+
+**Les recettes d'Halloween ferment avec l'événement, le 15 novembre.**
+
 **La panoplie Expedition Commemoration fonctionne.**
 Les bagues Volcano et Elan et les amulettes Volcano et Novas n'activaient jamais
 leur bonus de panoplie, et leur infobulle n'affichait pas de rubrique de
