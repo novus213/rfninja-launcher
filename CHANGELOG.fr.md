@@ -4,6 +4,12 @@
 
 ## 10 octobre 2026
 
+**La panoplie Expedition Commemoration fonctionne.**
+Les bagues Volcano et Elan et les amulettes Volcano et Novas n'activaient jamais
+leur bonus de panoplie, et leur infobulle n'affichait pas de rubrique de
+panoplie. Deux pièces au choix donnent maintenant +10 % d'attaque et de défense,
+et la panoplie complète ajoute de la précision. Merci au joueur qui l'a signalé.
+
 **Les armes d'Halloween montent maintenant jusqu'au niveau 55.**
 Au PNJ héros, une arme d'Halloween niveau 50 permanente combinée à 10 Bonbons
 Malicieux devient toujours la version niveau 55 de la même arme, avec un

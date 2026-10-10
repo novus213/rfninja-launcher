@@ -4,6 +4,12 @@
 
 ## 10 October 2026
 
+**The Expedition Commemoration set now works.**
+The Volcano and Elan rings and the Volcano and Novas amulets never activated
+their set bonus, and their tooltip showed no set section. Any 2 pieces now give
+Attack and Defense +10%, and the full set adds Accuracy. Thanks to the player
+who reported it.
+
 **Halloween weapons now go up to level 55.**
 At the Hero NPC, a permanent level 50 Halloween weapon combined with 10
 Mischievous Candies always becomes the level 55 version of the same weapon,
