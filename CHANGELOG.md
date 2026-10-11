@@ -2,6 +2,17 @@
 
 # Changelog
 
+## 11 October 2026
+
+**MAU repairs are cheaper again.**
+Pilots told us that repairing a MAU had become far too expensive. Repair costs
+for MAU parts have been brought back down to a much lower level, both for
+regular wear and after the MAU is destroyed.
+
+**More materials at the TOOL merchant of each headquarters.**
+The TOOL merchant in each race's headquarters now also sells all ten colors of
+Excelsior Piece, plus Rian, Gli and Beam.
+
 ## 10 October 2026
 
 **Spooky Skull Ring and Necklace: a permanent last step.**

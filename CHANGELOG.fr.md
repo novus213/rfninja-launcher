@@ -2,6 +2,17 @@
 
 # Journal des modifications
 
+## 11 octobre 2026
+
+**La réparation des MAU coûte de nouveau moins cher.**
+Les pilotes nous ont signalé que réparer un MAU était devenu bien trop cher.
+Le coût de réparation des pièces de MAU a été nettement abaissé, pour l'usure
+normale comme après la destruction du MAU.
+
+**Plus de matériaux chez le marchand TOOL de chaque QG.**
+Le marchand TOOL du QG de chaque race vend désormais aussi les dix couleurs
+d'Excelsior Piece, ainsi que Rian, Gli et Beam.
+
 ## 10 octobre 2026
 
 **Bague et collier Spooky : une dernière étape permanente.**
