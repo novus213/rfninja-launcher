@@ -4,6 +4,9 @@
 
 ## 11 octobre 2026
 
+**Vaisseau vers l'Ether et salles de guilde : les murs ne deviennent plus transparents.**
+Dans le vaisseau vers l'Ether et dans les six salles de guilde, des pans du décor pouvaient devenir transparents jusqu'à ce qu'on clique sur un objet. C'est corrigé avec la mise à jour du jour.
+
 **La réparation des MAU coûte de nouveau moins cher.**
 Les pilotes nous ont signalé que réparer un MAU était devenu bien trop cher.
 Le coût de réparation des pièces de MAU a été nettement abaissé, pour l'usure

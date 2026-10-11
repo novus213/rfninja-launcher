@@ -4,6 +4,9 @@
 
 ## 11 October 2026
 
+**Ether transport ship and guild rooms: walls no longer turn see-through.**
+Inside the ship to Ether and in the six guild rooms, parts of the room could become transparent until you clicked an item. This is fixed with today's update.
+
 **MAU repairs are cheaper again.**
 Pilots told us that repairing a MAU had become far too expensive. Repair costs
 for MAU parts have been brought back down to a much lower level, both for
