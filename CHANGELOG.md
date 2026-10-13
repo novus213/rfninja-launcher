@@ -2,6 +2,11 @@
 
 # Changelog
 
+## 13 October 2026
+
+**Overflow inventory: items show up correctly again.**
+When your bags were full, some looted items could appear with the wrong icon in the overflow window, and picking up a chest armor could make the whole window go blank, hiding everything else. This is fixed with today's update. Thanks to the player who reported it!
+
 ## 11 October 2026
 
 **Ether transport ship and guild rooms: walls no longer turn see-through.**

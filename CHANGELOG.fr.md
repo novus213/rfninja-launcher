@@ -2,6 +2,11 @@
 
 # Journal des modifications
 
+## 13 octobre 2026
+
+**Inventaire de débordement : les objets s'affichent de nouveau correctement.**
+Quand les sacs étaient pleins, certains objets ramassés pouvaient apparaître avec une mauvaise icône dans la fenêtre de débordement, et ramasser un plastron pouvait rendre toute la fenêtre vide, masquant tout le reste. C'est corrigé avec la mise à jour du jour. Merci au joueur qui l'a signalé !
+
 ## 11 octobre 2026
 
 **Vaisseau vers l'Ether et salles de guilde : les murs ne deviennent plus transparents.**
