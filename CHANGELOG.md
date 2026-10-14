@@ -7,6 +7,12 @@
 **ExcelSiar can now be crafted in batches.**
 At the usual combination NPC, ExcelSiar A can be crafted 5, 10 or 20 at a time, B 5 or 10 at a time and C 5 at a time: put the batch quantities of Excelsiar Piece and catalysts. A batch gives a random number of ExcelSiar and is, on average, as rewarding as crafting them one by one. The one-by-one recipes are still there.
 
+**Golden siege kits: now also for Dalant.**
+The Shining and Sniper Sonium and Magius siege kits are still sold for Golden Points by the usual merchant, and are now also sold for Dalant by the Accretia siege kit merchants. Same kits, same stats: only the price and the currency differ.
+
+**Auto-potion thresholds no longer jump to maximum.**
+Sometimes, after logging in, the HP or FP threshold of the Auto Potion macro showed your maximum value and the game kept drinking potions for nothing ("Selected potion is ineffective"). Your thresholds now stay as you set them.
+
 **Cure potions now really shorten debuffs.**
 Every cure potion, regular or from the cash shop, now removes 25 seconds from the debuff it targets. The cash shop versions still have a shorter cooldown. The item descriptions have been updated.
 

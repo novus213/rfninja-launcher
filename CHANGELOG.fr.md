@@ -7,6 +7,12 @@
 **Les ExcelSiar se fabriquent maintenant par lots.**
 Au PNJ de combinaison habituel, l'ExcelSiar A se fabrique par 5, 10 ou 20, le B par 5 ou 10 et le C par 5 : posez les quantités du lot en Excelsiar Piece et en catalyseurs. Un lot donne un nombre aléatoire d'ExcelSiar et rapporte en moyenne autant que la fabrication à l'unité. Les recettes à l'unité restent disponibles.
 
+**Kits de siège Golden : aussi en dalants.**
+Les kits de siège Shining et Sniper Sonium et Magius restent vendus contre des Golden Points chez le marchand habituel, et sont désormais aussi vendus contre des dalants chez les marchands de kits de siège d'Accretia. Mêmes kits, mêmes caractéristiques : seuls le prix et la monnaie changent.
+
+**Les seuils d'auto-potion ne se remettent plus au maximum.**
+Parfois, après la connexion, le seuil de PV ou de PF de la macro Auto Potion affichait votre valeur maximale et le jeu buvait des potions pour rien (« Selected potion is ineffective »). Vos seuils restent désormais tels que vous les avez réglés.
+
 **Les potions de cure raccourcissent vraiment les altérations.**
 Toutes les potions de cure, normales ou de la boutique, retirent désormais 25 secondes à l'altération visée. Les versions de la boutique gardent un temps de recharge plus court. Les descriptions des objets ont été mises à jour.
 
