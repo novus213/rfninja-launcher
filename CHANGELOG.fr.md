@@ -2,6 +2,22 @@
 
 # Journal des modifications
 
+## 14 octobre 2026
+
+**Les potions de cure raccourcissent vraiment les altérations.**
+Toutes les potions de cure, normales ou de la boutique, retirent désormais 25 secondes à l'altération visée. Les versions de la boutique gardent un temps de recharge plus court. Les descriptions des objets ont été mises à jour.
+
+**Varas et Small Lazhuardian lâchent plus d'équipement.**
+Varas peut désormais lâcher les objets de niveau 55 indiqués sur sa fiche, et le butin d'équipement de Small Lazhuardian a été corrigé.
+
+**Les annonces d'amélioration à +5 deviennent anonymes.**
+Quand quelqu'un améliore un objet à +5 ou plus, le serveur l'annonce sans afficher son nom, et les joueurs des deux autres races le voient aussi.
+
+**Un petit guide en jeu.**
+Les nouveaux personnages reçoivent un court accueil, et le jeu explique quelques points au bon moment : que faire aux plafonds des niveaux 50 et 56, pourquoi une téléportation est refusée en combat, comment chaque animus gagne de l'expérience, le cadeau du jour de l'événement, et quand votre premium arrive à son terme.
+
+**Miti n'affiche plus le bouton « MAU Tuning » qui ne faisait rien.**
+
 ## 13 octobre 2026
 
 **Inventaire de débordement : les objets s'affichent de nouveau correctement.**

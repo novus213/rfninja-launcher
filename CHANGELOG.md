@@ -2,6 +2,22 @@
 
 # Changelog
 
+## 14 October 2026
+
+**Cure potions now really shorten debuffs.**
+Every cure potion, regular or from the cash shop, now removes 25 seconds from the debuff it targets. The cash shop versions still have a shorter cooldown. The item descriptions have been updated.
+
+**Varas and Small Lazhuardian drop more equipment.**
+Varas can now drop the level 55 items listed on its page, and Small Lazhuardian's equipment drop has been fixed.
+
+**+5 upgrade announcements are now anonymous.**
+When someone upgrades an item to +5 or more, the server now announces it without showing their name, and players of the other two races now see it too.
+
+**A small in-game guide.**
+New characters get a short welcome, and the game now explains a few things at the right moment: what to do at the level 50 and 56 caps, why a teleport is refused during combat, how each animus gains experience, today's event gift, and when your premium is about to end.
+
+**Miti no longer shows a MAU Tuning button that did nothing.**
+
 ## 13 October 2026
 
 **Overflow inventory: items show up correctly again.**
