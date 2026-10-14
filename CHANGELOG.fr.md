@@ -4,6 +4,9 @@
 
 ## 14 octobre 2026
 
+**Les ExcelSiar se fabriquent maintenant par lots.**
+Au PNJ de combinaison habituel, l'ExcelSiar A se fabrique par 5, 10 ou 20, le B par 5 ou 10 et le C par 5 : posez les quantités du lot en Excelsiar Piece et en catalyseurs. Un lot donne un nombre aléatoire d'ExcelSiar et rapporte en moyenne autant que la fabrication à l'unité. Les recettes à l'unité restent disponibles.
+
 **Les potions de cure raccourcissent vraiment les altérations.**
 Toutes les potions de cure, normales ou de la boutique, retirent désormais 25 secondes à l'altération visée. Les versions de la boutique gardent un temps de recharge plus court. Les descriptions des objets ont été mises à jour.
 

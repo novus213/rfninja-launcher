@@ -4,6 +4,9 @@
 
 ## 14 October 2026
 
+**ExcelSiar can now be crafted in batches.**
+At the usual combination NPC, ExcelSiar A can be crafted 5, 10 or 20 at a time, B 5 or 10 at a time and C 5 at a time: put the batch quantities of Excelsiar Piece and catalysts. A batch gives a random number of ExcelSiar and is, on average, as rewarding as crafting them one by one. The one-by-one recipes are still there.
+
 **Cure potions now really shorten debuffs.**
 Every cure potion, regular or from the cash shop, now removes 25 seconds from the debuff it targets. The cash shop versions still have a shorter cooldown. The item descriptions have been updated.
 
