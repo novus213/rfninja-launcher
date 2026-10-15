@@ -2,6 +2,18 @@
 
 # Changelog
 
+## 15 October 2026
+
+**The Mid-Autumn barbecue is back until 31 December.**
+The festival pigs appear again every day, and the barbecue recipes and rewards are available again until the end of December. Barbecue items you still have are useful again.
+
+**The Normal Grenade Launcher (level 1) can be used by every class again.**
+As in the original game, any Accretia class can equip the level 1 Normal Grenade Launcher. The other grenade launchers are unchanged.
+
+**Halloween: Mischievous Candies now need level 10.**
+Candies are found from level 10, and the daily limit now also applies to each account, not only to each character.
+
+
 ## 14 October 2026
 
 **ExcelSiar can now be crafted in batches.**
