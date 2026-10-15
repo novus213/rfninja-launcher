@@ -2,6 +2,17 @@
 
 # Journal des modifications
 
+## 15 octobre 2026
+
+**Le barbecue de la mi-automne revient jusqu'au 31 décembre.**
+Les porcs du festival réapparaissent chaque jour, et les recettes et récompenses du barbecue sont de nouveau disponibles jusqu'à fin décembre. Les objets du barbecue que vous avez encore redeviennent utiles.
+
+**Le Normal Grenade Launcher (niveau 1) est de nouveau utilisable par toutes les classes.**
+Comme dans le jeu d'origine, toutes les classes d'Accretia peuvent équiper le Normal Grenade Launcher de niveau 1. Les autres lance-grenades ne changent pas.
+
+**Halloween : les Mischievous Candies demandent désormais le niveau 10.**
+Les bonbons se trouvent à partir du niveau 10, et la limite quotidienne s'applique désormais aussi à chaque compte, plus seulement à chaque personnage.
+
 ## 14 octobre 2026
 
 **Les ExcelSiar se fabriquent maintenant par lots.**
