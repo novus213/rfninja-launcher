@@ -2,6 +2,28 @@
 
 # Changelog
 
+## 16 October 2026
+
+**New: debuff traps.**
+Three new trap families are sold by the usual trap merchants of each race, from level 30 to level 75: Web traps stop victims from running, Weakening traps lower their defense, and Anti-MAU traps lower the defense of the MAU caught in the blast. They deal the same damage as the regular trap of the same level, the debuff follows the usual rules of harmful effects, and it does not stack.
+
+**No more disconnections near the Izen in Medicallab.**
+Some players were thrown out of the game ("Data did not match") when fighting near the Izen. This is fixed: update your game through the launcher. Chief Researcher John F Carter has also moved further away in Medicallab.
+
+**Slot extensions and some combinations gave the wrong item.**
+Extending the slots of an item at the HERO could return a completely different item, and a few other combinations had the same problem. All of them now return the right item.
+
+**Barbecue pig loot is now free for everyone.**
+The festival pigs' loot was going to the killer only. Everything they drop now falls on the ground for everyone around.
+
+**Hunting time exchange now really adds premium time.**
+Exchanging hunting time for a Premium Pass did not extend your premium. This is fixed, and the players who lost days have been compensated.
+
+**Auction House: maximum price is now 999,999,999 Dalant.**
+Buying a listing priced at 1 billion or more could disconnect the buyer. Listings can no longer go above 999,999,999; the few listings above it were closed and the items returned to their sellers.
+
+**Light MAU ammunition no longer hits like the heavy ones.**
+
 ## 15 October 2026
 
 **The Mid-Autumn barbecue is back until 31 December.**

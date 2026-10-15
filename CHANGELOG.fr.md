@@ -2,6 +2,28 @@
 
 # Journal des modifications
 
+## 16 octobre 2026
+
+**Nouveau : les pièges à débuff.**
+Trois nouvelles familles de pièges sont vendues par les marchands de pièges habituels de chaque race, du niveau 30 au niveau 75 : les pièges Web empêchent les victimes de courir, les pièges Weakening baissent leur défense, et les pièges Anti-MAU baissent la défense du MAU pris dans l'explosion. Ils font les mêmes dégâts que le piège normal de même niveau, le débuff suit les règles habituelles des effets néfastes, et il ne se cumule pas.
+
+**Plus de déconnexions près de l'Izen à Medicallab.**
+Certains joueurs étaient éjectés du jeu (« Data did not match ») en combattant près de l'Izen. C'est corrigé : mettez votre jeu à jour par le lanceur. Le Chief Researcher John F Carter a aussi été déplacé plus loin dans Medicallab.
+
+**Les extensions d'emplacements et quelques combinaisons rendaient le mauvais objet.**
+Étendre les emplacements d'un objet au HERO pouvait rendre un tout autre objet, et quelques autres combinaisons avaient le même défaut. Toutes rendent désormais le bon objet.
+
+**Le butin des porcs du barbecue est enfin libre pour tous.**
+Le butin des porcs du festival partait au seul tueur. Tout ce qu'ils lâchent tombe désormais au sol, pour tous ceux qui sont autour.
+
+**L'échange de temps de chasse ajoute enfin du temps premium.**
+Échanger du temps de chasse contre un Premium Pass ne prolongeait pas votre premium. C'est corrigé, et les joueurs qui avaient perdu des jours ont été dédommagés.
+
+**Hôtel des ventes : le prix maximum est désormais de 999 999 999 dalants.**
+Acheter une annonce à 1 milliard ou plus pouvait déconnecter l'acheteur. Une annonce ne peut plus dépasser 999 999 999 ; les quelques annonces au-dessus ont été fermées et les objets rendus à leurs vendeurs.
+
+**Les munitions légères des MAU ne frappent plus comme les lourdes.**
+
 ## 15 octobre 2026
 
 **Le barbecue de la mi-automne revient jusqu'au 31 décembre.**
