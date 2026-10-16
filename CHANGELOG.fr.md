@@ -5,7 +5,7 @@
 ## 16 octobre 2026
 
 **Nouveau : les Illusion Pyramids.**
-Ces monstres à trésor apparaissent désormais sur Outcast's Land, au 2e sous-sol du Cartella Bionic Laboratory, sur les trois îles de Jetso et sur Destroyed Novazan, en plus de la Hidden Land of Elf. Ils n'attaquent pas les joueurs et lâchent des objets d'artisanat du niveau de leur carte. Chacun revient quelque temps après avoir été tué.
+Ces monstres à trésor apparaissent désormais sur Outcast's Land, au 2e sous-sol du Cartella Bionic Laboratory, sur les trois îles de Jetso et sur Destroyed Novazan, en plus de la Hidden Land of Elf. Ils n'attaquent pas les joueurs et lâchent des objets d'artisanat du niveau de leur carte. Chacun revient quelque temps après avoir été tué. Leur butin a été ajusté peu après leur sortie : les premières pyramides lâchaient bien plus de cristaux que prévu.
 
 **Les armes d'Halloween peuvent désormais recevoir des talics.**
 Les armes d'Halloween de niveau 40 et 50 fabriquées à partir de maintenant sortent avec un nombre d'emplacements aléatoire, et peuvent recevoir des talics jusqu'à ces emplacements, au même taux de réussite qu'une arme classique de leur grade. Mettez votre jeu à jour par le lanceur.
