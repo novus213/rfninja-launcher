@@ -4,6 +4,12 @@
 
 ## 16 October 2026
 
+**New: Illusion Pyramids.**
+These treasure monsters now appear on Outcast's Land, the 2nd basement of the Cartella Bionic Laboratory, the three Jetso islands and Destroyed Novazan, in addition to the Hidden Land of Elf. They do not attack players and drop crafting items for the level of their map. Each one comes back some time after it is killed.
+
+**Halloween weapons can now be upgraded with talics.**
+Level 40 and 50 Halloween weapons crafted from now on come out with a random number of slots, and can be upgraded with talics up to those slots, at the same success rate as a regular weapon of their grade. Update your game through the launcher.
+
 **New: debuff traps.**
 Three new trap families are sold by the usual trap merchants of each race, from level 30 to level 75: Web traps stop victims from running, Weakening traps lower their defense, and Anti-MAU traps lower the defense of the MAU caught in the blast. They deal the same damage as the regular trap of the same level, the debuff follows the usual rules of harmful effects, and it does not stack.
 

@@ -4,6 +4,12 @@
 
 ## 16 octobre 2026
 
+**Nouveau : les Illusion Pyramids.**
+Ces monstres à trésor apparaissent désormais sur Outcast's Land, au 2e sous-sol du Cartella Bionic Laboratory, sur les trois îles de Jetso et sur Destroyed Novazan, en plus de la Hidden Land of Elf. Ils n'attaquent pas les joueurs et lâchent des objets d'artisanat du niveau de leur carte. Chacun revient quelque temps après avoir été tué.
+
+**Les armes d'Halloween peuvent désormais recevoir des talics.**
+Les armes d'Halloween de niveau 40 et 50 fabriquées à partir de maintenant sortent avec un nombre d'emplacements aléatoire, et peuvent recevoir des talics jusqu'à ces emplacements, au même taux de réussite qu'une arme classique de leur grade. Mettez votre jeu à jour par le lanceur.
+
 **Nouveau : les pièges à débuff.**
 Trois nouvelles familles de pièges sont vendues par les marchands de pièges habituels de chaque race, du niveau 30 au niveau 75 : les pièges Web empêchent les victimes de courir, les pièges Weakening baissent leur défense, et les pièges Anti-MAU baissent la défense du MAU pris dans l'explosion. Ils font les mêmes dégâts que le piège normal de même niveau, le débuff suit les règles habituelles des effets néfastes, et il ne se cumule pas.
 
