@@ -25,6 +25,21 @@ Les boutons Storage et Item Combination fonctionnent.
 **Montée de niveau 51-53.**
 Les monstres donnent 1,5 fois plus d'XP aux niveaux 51 à 53 (récompenses de quête inchangées). Sur Outcast Land, les monstres de niveau 58 à 62 réapparaissent deux fois plus vite. Les monstres tués par votre animus vous rapportent à nouveau de l'XP quand ils sont de votre niveau ou un peu en dessous.
 
+**Nouveaux sets de gemmes à la boutique.**
+Les sets de gemmes Brilliant, Radiant et Heavenly s'achètent désormais à la boutique cash.
+
+**Deux nouvelles combinaisons de bouclier.**
+Deux combinaisons du serveur officiel sont maintenant disponibles pour les boucliers Baalzebub de niveau 75.
+
+**MAU : la défense suit désormais les pièces d'armure.**
+La défense d'un MAU dépend maintenant du niveau de ses pièces de tête, de corps et de jambes : meilleures sont les pièces, plus le MAU est résistant. Goliath et Catapult gagnent tous deux en défense. Contre les monstres, les MAU retrouvent leurs dégâts d'origine ; contre les joueurs, rien ne change.
+
+**Les pièges anti-MAU fonctionnent.**
+Jusqu'ici, les pièges anti-MAU n'avaient aucun effet sur les MAU. Ils réduisent maintenant la défense d'un MAU pris dans l'explosion, et son pilote en est averti par un message (aucune icône d'effet ne s'affiche).
+
+**Le MAU Blessing tombe de nouveau.**
+Le Stocker Lava de Volcanic Cauldron et le Sand StingBug d'Outcast Land lâchent de nouveau du MAU Blessing.
+
 ## 16 octobre 2026
 
 **Nouveau : les Illusion Pyramids.**

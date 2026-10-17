@@ -25,6 +25,21 @@ The Storage and Item Combination buttons now work.
 **Leveling at 51-53.**
 Monsters give 1.5 times more XP at levels 51 to 53 (quest rewards unchanged). On Outcast Land, level 58 to 62 monsters respawn twice as fast. Kills made by your animus give you XP again on monsters of your level or slightly below.
 
+**New gem sets in the Cash Shop.**
+The Brilliant, Radiant and Heavenly gem sets can now be bought in the Cash Shop.
+
+**Two new shield combinations.**
+Two combinations from the official server are now available for the level 75 Baalzebub shields.
+
+**MAU: defense now follows the armor parts.**
+A MAU's defense now depends on the level of its head, body and leg parts: the better the parts, the tougher the MAU. Goliath and Catapult both gain defense. Against monsters, MAU deal their original damage again; against players, nothing changes.
+
+**Anti-MAU traps now work.**
+Anti-MAU traps had no effect on MAU until now. They now lower the defense of a MAU caught in the blast, and its pilot is told so in a message (no buff icon is shown).
+
+**MAU Blessing drops again.**
+Stocker Lava in Volcanic Cauldron and Sand StingBug on Outcast Land drop MAU Blessing again.
+
 ## 16 October 2026
 
 **New: Illusion Pyramids.**
