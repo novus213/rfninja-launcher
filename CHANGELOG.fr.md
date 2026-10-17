@@ -2,6 +2,29 @@
 
 # Journal des modifications
 
+## 17 octobre 2026
+
+**Plafond de Dalant relevé à 4 milliards, avec des lingots automatiques.**
+Vous pouvez désormais porter jusqu'à 4 000 000 000 de Dalant. Tout ce qui dépasse 1 500 000 000 est automatiquement converti en Lingots de Dalant (500 000 000 chacun) à la connexion, toutes les minutes en jeu et à la déconnexion, s'il y a de la place dans votre sac ; les lingots s'empilent sur ceux que vous portez déjà. Sous 2 000 000 000, rien n'est converti. Encaissez un lingot à l'Ingot Exchange (jusqu'à 1 999 999 999 portés), ou achetez-en un. Ne revendez pas un lingot à un marchand ordinaire : il ne le reprend qu'à 450 000 000.
+
+**Retirer des lingots de la banque est gratuit.**
+Sortir des Lingots de Dalant de la banque ne coûte plus rien.
+
+**Échanger du Dalant.**
+Un joueur ne peut pas recevoir de Dalant par échange si cela le fait passer au-dessus de 2 000 000 000. Échangez des lingots : eux n'ont pas de limite.
+
+**Hôtel des ventes : jusqu'à 1 999 999 999, et plus de déconnexions.**
+Le prix maximum passe à 1 999 999 999 de Dalant. Acheter un objet à 1 milliard ou plus ne déconnecte plus l'acheteur, et la part de taxe de la race / guilde est désormais juste sur les très grosses ventes. Le vendeur est toujours payé, même hors ligne ; si une vente le ferait dépasser la limite, l'achat est refusé avec un message clair et personne ne perd rien. Mettez votre jeu à jour par le lanceur.
+
+**Améliorateurs de talic sur l'équipement 70+.**
+Les améliorateurs de talic (N, B, C, D) fonctionnent désormais sur l'équipement niveau 70 et plus à emplacements (Baalzebub, Rare M, Dragonborn, capes, jetpacks et autres), avec les taux de réussite de l'équipement niveau 70.
+
+**Almighty Beeper.**
+Les boutons Storage et Item Combination fonctionnent.
+
+**Montée de niveau 51-53.**
+Les monstres donnent 1,5 fois plus d'XP aux niveaux 51 à 53 (récompenses de quête inchangées). Sur Outcast Land, les monstres de niveau 58 à 62 réapparaissent deux fois plus vite. Les monstres tués par votre animus vous rapportent à nouveau de l'XP quand ils sont de votre niveau ou un peu en dessous.
+
 ## 16 octobre 2026
 
 **Nouveau : les Illusion Pyramids.**

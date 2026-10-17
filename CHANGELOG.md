@@ -2,6 +2,29 @@
 
 # Changelog
 
+## 17 October 2026
+
+**Dalant limit raised to 4 billion, with automatic Ingots of Dalant.**
+You can now carry up to 4,000,000,000 Dalant. Everything above 1,500,000,000 is automatically turned into Ingots of Dalant (500,000,000 each) when you log in, every minute while you play and when you log out, as long as your bag has room; ingots stack on the ones you already carry. Below 2,000,000,000 nothing is converted. Cash an ingot at the Ingot Exchange (up to 1,999,999,999 carried), or buy one there. Do not sell ingots to a regular shop: it only pays 450,000,000.
+
+**Ingots in the bank are free to withdraw.**
+Taking Ingots of Dalant out of the bank no longer costs anything.
+
+**Trading Dalant.**
+A player cannot receive Dalant by trade if it would put them above 2,000,000,000. Trade ingots instead: they have no limit.
+
+**Auction House: up to 1,999,999,999, and no more disconnections.**
+The maximum price is raised to 1,999,999,999 Dalant. Buying an item listed at 1 billion or more no longer disconnects the buyer, and the race/guild share of the tax is now correct on very expensive sales. Sellers always get paid, even offline; if a sale would push a seller above the limit, the purchase is refused with a clear message and nobody loses anything. Update your game through the launcher.
+
+**Talic Upgraders on level 70+ equipment.**
+Talic Upgraders (N, B, C, D) now work on level 70 and above equipment with slots (Baalzebub, Rare M, Dragonborn, cloaks, jetpacks and more), with the same success rates as level 70 equipment.
+
+**Almighty Beeper.**
+The Storage and Item Combination buttons now work.
+
+**Leveling at 51-53.**
+Monsters give 1.5 times more XP at levels 51 to 53 (quest rewards unchanged). On Outcast Land, level 58 to 62 monsters respawn twice as fast. Kills made by your animus give you XP again on monsters of your level or slightly below.
+
 ## 16 October 2026
 
 **New: Illusion Pyramids.**
