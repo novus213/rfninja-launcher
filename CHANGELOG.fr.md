@@ -2,6 +2,14 @@
 
 # Journal des modifications
 
+## 18 octobre 2026
+
+**Les récompenses de vote sont en place.**
+Voter pour le serveur rapporte désormais des Cash Coins : 20 par vote, une fois par jour sur chaque site récompensé, crédités automatiquement sur votre compte en quelques minutes. Ouvrez la page Vote du site, tapez le nom de votre personnage et utilisez les boutons de vote qu'elle vous donne : un vote lancé depuis une simple bannière ne porte pas de nom et ne peut pas être récompensé. Une récompense par site et par jour pour chaque compte de jeu.
+
+**Isis et Hecate rééquilibrées.**
+À niveau et équipement égaux, Hecate frappait environ deux fois plus fort qu'Isis, l'inverse de l'intention d'origine : Isis doit être l'attaquante et Hecate le soutien de zone. Isis frappe maintenant plus fort qu'Hecate, sur les monstres comme sur les joueurs, et Hecate garde ses dégâts de zone. Cela vaut pour tous les niveaux d'animus, animus scellés compris.
+
 ## 17 octobre 2026
 
 **Plafond de Dalant relevé à 4 milliards, avec des lingots automatiques.**

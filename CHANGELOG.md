@@ -2,6 +2,14 @@
 
 # Changelog
 
+## 18 October 2026
+
+**Vote rewards are live.**
+Voting for the server now gives Cash Coins: 20 per vote, once a day on each rewarded site, credited automatically to your account within a few minutes. Open the Vote page on the website, type your character name, and use the vote buttons it gives you: a vote cast from a plain banner carries no name and cannot be rewarded. One reward per site per day for each game account.
+
+**Isis and Hecate rebalanced.**
+At the same level and gear, Hecate was hitting about twice as hard as Isis, the reverse of the intended design: Isis is meant to be the stronger attacker and Hecate the area-damage support. Isis now hits harder than Hecate on monsters and players alike, and Hecate keeps her area damage. This applies to all animus levels, sealed animus included.
+
 ## 17 October 2026
 
 **Dalant limit raised to 4 billion, with automatic Ingots of Dalant.**
