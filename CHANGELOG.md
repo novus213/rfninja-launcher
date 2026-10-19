@@ -2,6 +2,36 @@
 
 # Changelog
 
+## 19 October 2026
+
+**New: the Hunter's Flem.**
+A new merchant stands in each headquarters. It sells boxes, food and Burst / Protect potions for Hunting Points, which you earn by killing monsters (higher-level monsters give more). Some boxes are limited per week.
+
+**PvP rewards raised.**
+Killing players of another race now gives far more PvP points, and premium players earn twice as much. In a party, the points of a kill are shared. Points earned during the day become spendable at midnight (server time).
+
+**More at the PvP point merchant.**
+Relief Jades are now sold for PvP points, the three PvP charms Keen, Grace and Thorns now last as long as the other PvP charms, and level 65 Chronicle weapons have been added. Relic weapon coupons can be exchanged for the weapon at the HERO, and Relic II, III and IV weapons now have the stats of the next tier. The Charm of Thorns description now says that it only reflects damage from players.
+
+**New daily quests for levels 56 to 80.**
+
+**Mining gives more Gold Boxes.**
+
+**Auction House: the "register failed" error is fixed.**
+Listing an item could fail with an error. It now works.
+
+**Auction House pager.**
+Each use of the disposable pager takes two charges. Its price has been halved, so each use now costs what it should.
+
+**Premium (PC Cafe) rewards between levels 30 and 66.**
+Some classes were offered only rings, or the same amulet twice, in the second reward choice. Every class now gets the full choice of amulets.
+
+**Healing potions and item descriptions.**
+Ten healing potions applied a buff instead of healing you: they heal again. Many potion descriptions were wrong (including warnings saying the item would be deleted): they have been corrected, and a food item no longer shows the tooltip of another item.
+
+**Experience rates.**
+Experience rates are currently raised for a test period. During this test, the extra bonus at levels 51 to 53 announced on 17 October is paused.
+
 ## 18 October 2026
 
 **Vote rewards are live.**

@@ -2,6 +2,36 @@
 
 # Journal des modifications
 
+## 19 octobre 2026
+
+**Nouveau : le Hunter's Flem.**
+Un nouveau marchand se tient dans chaque quartier général. Il vend des boîtes, de la nourriture et des potions Burst / Protect contre des Hunting Points, que l'on gagne en tuant des monstres (plus le monstre est haut niveau, plus il en donne). Certaines boîtes sont limitées par semaine.
+
+**Récompenses PvP relevées.**
+Tuer des joueurs d'une autre race rapporte maintenant beaucoup plus de points PvP, et deux fois plus pour les joueurs premium. En groupe, les points d'une mise à mort sont partagés. Les points gagnés dans la journée deviennent dépensables à minuit (heure du serveur).
+
+**Plus d'articles chez le marchand de points PvP.**
+Les Relief Jades se vendent désormais contre des points PvP, les trois charmes PvP Keen, Grace et Thorns durent maintenant autant que les autres charmes PvP, et des armes Chronicle de niveau 65 ont été ajoutées. Les coupons d'armes Relic s'échangent contre l'arme au HERO, et les armes Relic II, III et IV ont maintenant les caractéristiques du palier suivant. La description du Charm of Thorns précise désormais qu'il ne renvoie que les dégâts des joueurs.
+
+**Nouvelles quêtes journalières pour les niveaux 56 à 80.**
+
+**La mine donne plus de Gold Boxes.**
+
+**Hôtel des ventes : l'erreur « register failed » est corrigée.**
+Mettre un objet en vente pouvait échouer avec une erreur. Cela fonctionne maintenant.
+
+**Bipeur de l'hôtel des ventes.**
+Chaque usage du bipeur jetable consomme deux charges. Son prix a été divisé par deux : chaque usage coûte désormais ce qu'il doit.
+
+**Récompenses premium (PC Cafe) entre les niveaux 30 et 66.**
+Certaines classes ne se voyaient proposer que des bagues, ou deux fois la même amulette, dans le second choix de récompense. Toutes les classes ont maintenant le choix complet des amulettes.
+
+**Potions de soin et descriptions d'objets.**
+Dix potions de soin appliquaient un bonus au lieu de soigner : elles soignent de nouveau. Beaucoup de descriptions de potions étaient fausses (dont des avertissements annonçant que l'objet serait supprimé) : elles sont corrigées, et un aliment n'affiche plus l'infobulle d'un autre objet.
+
+**Taux d'expérience.**
+Les taux d'expérience sont actuellement relevés pour une période de test. Pendant ce test, le bonus supplémentaire des niveaux 51 à 53 annoncé le 17 octobre est suspendu.
+
 ## 18 octobre 2026
 
 **Les récompenses de vote sont en place.**
