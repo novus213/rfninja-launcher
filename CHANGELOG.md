@@ -2,6 +2,38 @@
 
 # Changelog
 
+## 21 October 2026
+
+**Hundreds of official combination recipes added.**
+Many official recipes were missing from the combination window: Mysterious weapons and armor, accessories, wings, seasonal items and more. They are now available.
+
+**Exchange tickets and boxes.**
+Many tickets could not be exchanged at the HERO, several boxes opened empty, and some boxes gave a ticket for another race or another piece. They now give the right reward.
+
+**Daily hunting quests can be done in a party.**
+Kills made by party members now count for everyone in the party who has the quest. The Dalant reward of the Elite Training quests now matches the official value.
+
+**Communion Crystals no longer stack.**
+Equipping two Communion Crystals applied both effects. Only one applies now, as intended.
+
+**An Infernal Dragon Tower for each race.**
+Each race now has its own tower, entered from Cauldron, with an exit to its capital.
+
+**Teleport fixes.**
+Inside the level 66-70 training room, Accretians could get "Out of portal range": fixed. The Wounded Land portal to its dungeon and the Jetso portals now work like on the official server.
+
+**Bosses.**
+Black Dragon and Princess Eldet are back, permanently. Dark Belphegor and Doom Crasher have been removed from Laboratory Kartella 2 for now.
+
+**Monsters and drops.**
+Several monsters and drops have been corrected to match the official data, Herodian Machine Equipment respawns faster, and Metal Elves in Outcast Land can now drop treasure boxes.
+
+**Item names.**
+The "Fire Fire Dragon" items are now named "Fire Dragon", and several cloak and ticket names have been corrected.
+
+**Cash Shop.**
+New items are on sale and a few old ones are back.
+
 ## 19 October 2026
 
 **New: the Hunter's Flem.**

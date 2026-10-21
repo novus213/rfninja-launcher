@@ -2,6 +2,38 @@
 
 # Journal des modifications
 
+## 21 octobre 2026
+
+**Des centaines de recettes de combinaison officielles ajoutées.**
+Beaucoup de recettes officielles manquaient à la fenêtre de combinaison : armes et armures Mysterious, accessoires, ailes, objets saisonniers et d'autres. Elles sont maintenant disponibles.
+
+**Tickets d'échange et boîtes.**
+Beaucoup de tickets ne pouvaient pas être échangés au HERO, plusieurs boîtes s'ouvraient vides, et certaines boîtes donnaient un ticket d'une autre race ou d'une autre pièce. Elles donnent maintenant la bonne récompense.
+
+**Les quêtes de chasse quotidiennes se font en groupe.**
+Les monstres tués par un membre du groupe comptent désormais pour tous les membres qui ont la quête. La récompense en Dalant des quêtes Elite Training correspond maintenant à la valeur officielle.
+
+**Les Communion Crystals ne se cumulent plus.**
+Équiper deux Communion Crystals appliquait les deux effets. Un seul s'applique désormais, comme prévu.
+
+**Une Infernal Dragon Tower par race.**
+Chaque race a maintenant sa propre tour, accessible depuis Cauldron, avec une sortie vers sa capitale.
+
+**Téléportations corrigées.**
+Dans la salle d'entraînement 66-70, les Accrétiens pouvaient recevoir « Out of portal range » : c'est corrigé. Le portail de Wounded Land vers son donjon et les portails de Jetso fonctionnent maintenant comme sur le serveur officiel.
+
+**Boss.**
+Black Dragon et Princess Eldet sont de retour, de façon permanente. Dark Belphegor et Doom Crasher sont retirés du Laboratoire Kartella 2 pour le moment.
+
+**Monstres et butin.**
+Plusieurs monstres et butins ont été corrigés pour correspondre aux données officielles, l'Herodian Machine Equipment réapparaît plus vite, et les Metal Elves d'Outcast Land peuvent maintenant laisser tomber des coffres.
+
+**Noms d'objets.**
+Les objets « Fire Fire Dragon » s'appellent maintenant « Fire Dragon », et plusieurs noms de capes et de tickets ont été corrigés.
+
+**Boutique cash.**
+De nouveaux objets sont en vente et quelques anciens sont de retour.
+
 ## 19 octobre 2026
 
 **Nouveau : le Hunter's Flem.**
