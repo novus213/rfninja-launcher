@@ -2,6 +2,32 @@
 
 # Changelog
 
+## 22 October 2026
+
+**Crafting window: wrong material amount shown.**
+On some high-level recipes (levels 63 to 75), the crafting window showed a much lower amount than really needed for a material. It now shows the real amount.
+
+**ExcelSiar B and C combinations.**
+Combining ExcelSiar B or C sometimes failed with "item combination incorrect", depending on the order of the slots. Fixed.
+
+**Tracking scrolls.**
+Some tracking scrolls failed with "Unable to transfer to destination". Fixed.
+
+**Auction House: higher maximum price.**
+Items can now be listed at a higher price than before.
+
+**MAU: keyboard control mode.**
+The keyboard control mode now works in a MAU. Choose your control mode before boarding.
+
+**Hunter's Flem (Accretia).**
+The Accretian Hunter's Flem is now at its intended place, and the PvP merchant is back where it was.
+
+**Level 66-70 training room.**
+Several monsters there now have their official resistances and defense.
+
+**Bosses removed from some maps.**
+A few bosses had been placed on maps where they do not belong. They have been removed, and the boss timers on the website have been updated.
+
 ## 21 October 2026
 
 **Hundreds of official combination recipes added.**

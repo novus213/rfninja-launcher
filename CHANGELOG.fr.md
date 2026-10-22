@@ -2,6 +2,32 @@
 
 # Journal des modifications
 
+## 22 octobre 2026
+
+**Fenêtre d'artisanat : quantité de matériau erronée.**
+Sur certaines recettes de haut niveau (niveaux 63 à 75), la fenêtre d'artisanat affichait une quantité bien plus faible que celle réellement nécessaire pour un matériau. Elle affiche maintenant la vraie quantité.
+
+**Combinaisons ExcelSiar B et C.**
+Combiner un ExcelSiar B ou C échouait parfois avec « item combination incorrect », selon l'ordre des cases. Corrigé.
+
+**Parchemins de traque.**
+Certains parchemins de traque échouaient avec « Unable to transfer to destination ». Corrigé.
+
+**Hôtel des ventes : prix maximum relevé.**
+Les objets peuvent maintenant être mis en vente à un prix plus élevé qu'avant.
+
+**MAU : mode de contrôle au clavier.**
+Le mode de contrôle au clavier fonctionne maintenant dans un MAU. Choisissez votre mode de contrôle avant d'embarquer.
+
+**Hunter's Flem (Accretia).**
+Le Hunter's Flem accrétien est maintenant à sa place prévue, et le marchand PvP est revenu à son emplacement.
+
+**Salle d'entraînement 66-70.**
+Plusieurs monstres y ont maintenant leurs résistances et leur défense officielles.
+
+**Boss retirés de certaines cartes.**
+Quelques boss avaient été placés sur des cartes où ils n'ont pas leur place. Ils ont été retirés, et les minuteurs de boss du site ont été mis à jour.
+
 ## 21 octobre 2026
 
 **Des centaines de recettes de combinaison officielles ajoutées.**
