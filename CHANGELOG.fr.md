@@ -2,6 +2,32 @@
 
 # Journal des modifications
 
+## 25 octobre 2026 — deuxième mise à jour
+
+**Écran de mort après un changement de personnage.**
+L'écran de mort s'affiche de nouveau correctement après un retour à la sélection du personnage sans fermer le jeu.
+
+**Objets verrouillés.**
+Vous pouvez maintenant équiper, retirer et utiliser vos objets verrouillés. Ils ne peuvent toujours pas être échangés, vendus, jetés ou rangés.
+
+**Inventaire : fabrication très rapide.**
+Corrigé : une pile qui se remplit pendant une fabrication rapide ne se répartit plus en cases d'une unité.
+
+**Horaires de la Chip War.**
+Après le passage à l'heure d'hiver, la Chip War démarrait une heure trop tôt. Les horaires sont revenus à la normale.
+
+**Collection Inventory Update Package.**
+Désormais limité à un par compte, comme sur les serveurs officiels.
+
+**Traductions.**
+Plusieurs noms d'objets, conseils et messages corrigés, dans toutes les langues.
+
+**Performances du client.**
+Amélioration générale des performances du module de jeu.
+
+**Icône Premium Benefits.**
+Le bouton Premium Benefits affiche maintenant sa propre icône.
+
 ## 25 octobre 2026
 
 **Nouveau module de jeu, installé par le lanceur.**

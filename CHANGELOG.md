@@ -2,6 +2,32 @@
 
 # Changelog
 
+## 25 October 2026 — second update
+
+**Death screen after changing character.**
+The death screen now shows up correctly after going back to character selection without closing the game.
+
+**Locked items.**
+You can now equip, unequip and use your locked items. They still cannot be traded, sold, dropped or stored.
+
+**Inventory: crafting very fast.**
+Fixed stacks splitting into single slots when a stack fills up while crafting quickly.
+
+**Chip War times.**
+After the switch to winter time, Chip War started one hour early. The times are back to normal.
+
+**Collection Inventory Update Package.**
+Now limited to one per account, as on the official servers.
+
+**Translations.**
+Fixed several item names, hints and messages in all languages.
+
+**Game client performance.**
+General performance improvements in the game module.
+
+**Premium Benefits icon.**
+The Premium Benefits button now shows its proper icon.
+
 ## 25 October 2026
 
 **New game module, installed by the launcher.**
