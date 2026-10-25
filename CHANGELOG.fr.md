@@ -2,6 +2,41 @@
 
 # Journal des modifications
 
+## 25 octobre 2026
+
+**Nouveau module de jeu, installé par le lanceur.**
+Lancez le jeu depuis le lanceur pour qu'il installe la mise à jour du jour : le jeu a désormais besoin de ce module pour se connecter. Si votre antivirus le bloque, ajoutez le dossier du jeu à ses exceptions.
+
+**PNJ de buffs : nouvelle fenêtre de boutique.**
+Les PNJ de buffs ouvrent maintenant une vraie fenêtre de boutique de buffs, à la place de l'ancien menu.
+
+**Verrou d'objet.**
+Vous pouvez maintenant verrouiller un objet pour qu'il ne puisse pas être vendu, jeté ou rangé par erreur.
+
+**Menu de mort, minuteur de Chip War et bouton du radar.**
+Le menu de mort et le minuteur de Chip War ont maintenant l'aspect et le fonctionnement de la version 4.55, avec un bouton de minuteur à côté du radar.
+
+**Icône premium, infobulles des munitions et effets visuels.**
+Le statut premium a sa propre icône et son infobulle, les infobulles des munitions affichent le bonus d'attaque en pourcentage, et davantage d'effets visuels s'affichent correctement.
+
+**Ciblage.**
+« Character targeting has failed » ne se répète plus sur les monstres qui viennent de mourir ou que d'autres combattent.
+
+**Hôtel des ventes : remise en vente d'équipement.**
+Remettre en vente une pièce d'équipement expirée n'échoue plus.
+
+**Artisanat : munitions.**
+L'artisanat de munitions n'échoue plus.
+
+**Expérience des animus.**
+Achever un monstre avec une Hecate ou une Isis de bas niveau vous donne maintenant l'expérience prévue, et Hecate et Isis progressent maintenant à la même vitesse que les autres animus.
+
+**Butin et taux de drop.**
+Le butin de quelques monstres a été ajusté, et le taux de drop de l'Autumn Crystal a été baissé.
+
+**Laboratoire Bio 2F.**
+Les Spector et Spector Junior réapparaissent plus vite.
+
 ## 22 octobre 2026
 
 **Fenêtre d'artisanat : quantité de matériau erronée.**

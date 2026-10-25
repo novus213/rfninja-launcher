@@ -2,6 +2,41 @@
 
 # Changelog
 
+## 25 October 2026
+
+**New game module, installed by the launcher.**
+Start the game from the launcher so it installs today's update: the game now needs this module to connect. If your antivirus blocks it, add your game folder to its exceptions.
+
+**Buff NPC: new buff shop window.**
+The buff NPCs now open a proper buff shop window instead of the old menu.
+
+**Item lock.**
+You can now lock an item so it cannot be sold, dropped or stored by mistake.
+
+**Death menu, Chip War timer and radar button.**
+The death menu and the Chip War timer now look and work like in the 4.55 version, with a timer button next to the radar.
+
+**Premium icon, ammo tooltips and visual effects.**
+The premium status has its own icon and tooltip, ammo tooltips show the attack bonus in percent, and more visual effects now display properly.
+
+**Targeting.**
+"Character targeting has failed" no longer repeats on monsters that just died or that others are fighting.
+
+**Auction House: re-listing equipment.**
+Putting an expired piece of equipment back on sale no longer fails.
+
+**Crafting: ammo.**
+Ammo crafts no longer fail.
+
+**Animus experience.**
+Finishing a monster with a low-level Hecate or Isis now gives you the experience it should, and Hecate and Isis now level at the same speed as the other animus.
+
+**Loot and drop rates.**
+Loot was adjusted on a few monsters, and the Autumn Crystal drop rate was lowered.
+
+**Bio Lab 2F.**
+Spector and Spector Junior respawn faster.
+
 ## 22 October 2026
 
 **Crafting window: wrong material amount shown.**
