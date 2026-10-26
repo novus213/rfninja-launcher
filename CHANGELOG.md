@@ -4,6 +4,18 @@
 
 ## 26 October 2026
 
+**Item Collection (Codex) is live.**
+Register items to complete collections and earn permanent stat bonuses, shared by all characters of your account. Registering an item has a fee, shown before you confirm; Collector's Gift tickets are free.
+
+**Item grade borders.**
+Item slots now show a colored border matching the item's grade, animated on higher grades, and the tooltip frame is tinted to match.
+
+**Collection items from monsters.**
+Items needed by the regular collections can now be obtained from monsters, so every regular collection can be completed.
+
+**Daily quests: later steps.**
+The last steps of the daily cleanup quests now also give the new experience rewards.
+
 **Hunting Points → CC exchange.**
 The Hunter's Flem in each HQ now lets you trade your Hunting Points for CC, with several tiers to choose from (weekly limit per account).
 

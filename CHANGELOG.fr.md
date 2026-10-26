@@ -4,6 +4,18 @@
 
 ## 26 octobre 2026
 
+**La Collection d'objets (Codex) est ouverte.**
+Enregistrez des objets pour compléter des collections et gagner des bonus de caractéristiques permanents, partagés par tous les personnages du compte. L'enregistrement d'un objet est payant, le coût est affiché avant de confirmer ; les tickets Collector's Gift sont gratuits.
+
+**Bordure de grade des objets.**
+Les cases d'objets affichent une bordure colorée selon le grade de l'objet, animée sur les grades supérieurs, et le cadre de l'infobulle prend la même teinte.
+
+**Objets de collection sur les monstres.**
+Les objets demandés par les collections ordinaires s'obtiennent désormais sur des monstres : toutes les collections ordinaires peuvent être complétées.
+
+**Quêtes journalières : dernières étapes.**
+Les dernières étapes des quêtes de nettoyage quotidiennes donnent elles aussi les nouvelles récompenses d'expérience.
+
 **Échange Hunting Points → CC.**
 Le Hunter's Flem de chaque QG permet désormais d'échanger ses Hunting Points contre des CC, avec plusieurs paliers au choix (limite hebdomadaire par compte).
 
