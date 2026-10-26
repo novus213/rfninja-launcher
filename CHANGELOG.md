@@ -2,6 +2,35 @@
 
 # Changelog
 
+## 26 October 2026
+
+**Hunting Points → CC exchange.**
+The Hunter's Flem in each HQ now lets you trade your Hunting Points for CC, with several tiers to choose from (weekly limit per account).
+
+**Daily quests: more XP.**
+Daily quest rewards now give much more experience, high levels included.
+
+**Blue Powder.**
+Blue Powder is now sold by the Tool merchant in each HQ.
+
+**Hunter's Flem recipe boxes.**
+Back on sale, with a weekly limit per account.
+
+**Battle Dungeons.**
+Hunting Points are no longer earned inside Battle Dungeons.
+
+**Game closing at character selection.**
+Since the previous update, the game could close on its own just before the character list appeared. This is fixed.
+
+**Death menu.**
+All revive potions now work from the death menu, and its second button behaves as expected.
+
+**Locked items.**
+The padlock now stays on the right item, and a locked guard tower shows a clear message.
+
+**Translations.**
+More item names and descriptions fixed.
+
 ## 25 October 2026 — second update
 
 **Death screen after changing character.**

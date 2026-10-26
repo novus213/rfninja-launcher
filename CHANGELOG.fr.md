@@ -2,6 +2,35 @@
 
 # Journal des modifications
 
+## 26 octobre 2026
+
+**Échange Hunting Points → CC.**
+Le Hunter's Flem de chaque QG permet désormais d'échanger ses Hunting Points contre des CC, avec plusieurs paliers au choix (limite hebdomadaire par compte).
+
+**Quêtes journalières : plus d'XP.**
+Les récompenses des quêtes journalières donnent beaucoup plus d'expérience, hauts niveaux compris.
+
+**Blue Powder.**
+Le Blue Powder est désormais vendu par le marchand Tool de chaque QG.
+
+**Boîtes de recettes du Hunter's Flem.**
+De retour en vente, avec une limite hebdomadaire par compte.
+
+**Battle Dungeons.**
+On ne gagne plus de Hunting Points dans les Battle Dungeons.
+
+**Le jeu se fermait à la sélection du personnage.**
+Depuis la mise à jour précédente, le jeu pouvait se fermer tout seul juste avant l'affichage de la liste des personnages. C'est corrigé.
+
+**Menu de mort.**
+Toutes les potions de relèvement fonctionnent depuis le menu de mort, et son deuxième bouton fait ce qu'on attend.
+
+**Objets verrouillés.**
+Le cadenas reste sur le bon objet, et une tour de garde verrouillée affiche un message clair.
+
+**Traductions.**
+D'autres noms et descriptions d'objets corrigés.
+
 ## 25 octobre 2026 — deuxième mise à jour
 
 **Écran de mort après un changement de personnage.**
