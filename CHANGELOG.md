@@ -2,6 +2,41 @@
 
 # Changelog
 
+## 31 October 2026
+
+**Codex: new hotkey and EXP.**
+Press **Home** to open or close the Codex, in both mouse and keyboard control modes. Completing a collection now gives EXP, from 0.5% of a level (1 star) up to 8% (6 stars), based on your level if the collection is at most 10 levels below you. A "+N" slot accepts any item with exactly N talics, whatever its number of slots.
+
+**Item lock.**
+The padlock now also shows on equipped items, and picking up an item onto a locked stack no longer shows an error.
+
+**Cash shop upgraders on level 65 [Type C].**
+Level 65 [Type C] equipment now accepts the cash shop talic upgraders and socket extenders, like the other types.
+
+**7th talic.**
+A 7th talic can now be added to an item, with a very low success rate.
+
+**Dragonborn and Absolute Zero.**
+Combining Dragonborn and Absolute Zero armor now gives the box with the cape part, as intended. Cape +2/+4 assemblies now come with their slots. New Passion and Will recipes are available.
+
+**Princess Eldet.**
+In the Training Room 66-70, Princess Eldet now spawns only once at a time, and she is tougher.
+
+**Sky Battleground.**
+The internal teleporters work again.
+
+**Vendors.**
+Throwing axes are now sold by the throwing-knife vendors, and the empty last page at an armor vendor is gone.
+
+**Drops.**
+Drop rates of Intense items and 75D fragment boxes were adjusted.
+
+**Chip War.**
+The Chip Breaker reward is now paid correctly even after winning two wars in a row.
+
+**Report a cheater.**
+Type `%njreport <player name> <reason>` in chat; our team reviews every report. `%guide` has new topics: codex, lock, events and report.
+
 ## 26 October 2026
 
 **Item Collection (Codex) is live.**

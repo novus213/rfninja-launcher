@@ -2,6 +2,41 @@
 
 # Journal des modifications
 
+## 31 octobre 2026
+
+**Codex : nouvelle touche et EXP.**
+Appuyez sur **Début** (Home) pour ouvrir ou fermer le Codex, en mode souris comme en mode clavier. Compléter une collection donne maintenant de l'EXP, de 0,5 % d'un niveau (1 étoile) à 8 % (6 étoiles), calculée sur votre niveau si la collection est au plus 10 niveaux sous vous. Un emplacement « +N » accepte tout objet portant exactement N talics, quel que soit son nombre d'emplacements.
+
+**Verrou d'objet.**
+Le cadenas s'affiche aussi sur les objets équipés, et ramasser un objet sur une pile verrouillée n'affiche plus d'erreur.
+
+**Améliorateurs de la boutique cash sur le niveau 65 [Type C].**
+L'équipement niveau 65 [Type C] accepte maintenant les améliorateurs de talic et les extenseurs d'emplacements de la boutique cash, comme les autres types.
+
+**7e talic.**
+Un 7e talic peut maintenant être ajouté à un objet, avec une très faible chance de réussite.
+
+**Dragonborn et Absolute Zero.**
+Combiner une armure Dragonborn ou Absolute Zero donne maintenant la boîte avec la pièce de cape, comme prévu. Les capes +2/+4 assemblées ont leurs emplacements. De nouvelles recettes Passion et Will sont disponibles.
+
+**Princess Eldet.**
+Dans la Training Room 66-70, Princess Eldet n'apparaît plus qu'une seule fois à la fois, et elle est plus résistante.
+
+**Sky Battleground.**
+Les téléporteurs internes fonctionnent de nouveau.
+
+**Marchands.**
+Les haches de jet sont vendues par les marchands de couteaux de jet, et la dernière page vide d'un marchand d'armures a disparu.
+
+**Butin.**
+Les taux de butin des objets Intense et des boîtes de fragments 75D ont été ajustés.
+
+**Chip War.**
+La récompense du Chip Breaker est versée correctement même après deux guerres gagnées d'affilée.
+
+**Signaler un tricheur.**
+Tapez `%njreport <nom du joueur> <raison>` dans le chat ; l'équipe relit chaque signalement. `%guide` a de nouveaux sujets : codex, lock, events et report.
+
 ## 26 octobre 2026
 
 **La Collection d'objets (Codex) est ouverte.**
