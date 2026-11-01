@@ -2,6 +2,14 @@
 
 # Changelog
 
+## 1 November 2026
+
+**Presence checks against unattended farming.**
+While you hunt, a presence check may pop up from time to time: either press the letter shown on screen, or click the right answer in the window that opens. If you miss one, you are told so in the chat. Repeated failures lead to sanctions, and you always get an on-screen warning before being disconnected.
+
+**Autumn Crystal Lucky Box.**
+The box no longer drops from monsters for now: the Autumn Crystal event is not running yet.
+
 ## 31 October 2026
 
 **Codex: new hotkey and EXP.**

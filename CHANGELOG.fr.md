@@ -2,6 +2,14 @@
 
 # Journal des modifications
 
+## 1er novembre 2026
+
+**Contrôles de présence contre le farm sans surveillance.**
+Pendant la chasse, un contrôle de présence peut apparaître de temps en temps : appuyez sur la lettre affichée à l'écran, ou cliquez sur la bonne réponse dans la fenêtre qui s'ouvre. Si vous en ratez un, le chat vous le dit. Des échecs répétés mènent à des sanctions, et vous êtes toujours prévenu à l'écran avant d'être déconnecté.
+
+**Autumn Crystal Lucky Box.**
+La boîte ne tombe plus des monstres pour le moment : l'événement Autumn Crystal n'est pas encore lancé.
+
 ## 31 octobre 2026
 
 **Codex : nouvelle touche et EXP.**
