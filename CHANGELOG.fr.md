@@ -2,6 +2,17 @@
 
 # Journal des modifications
 
+## 5 novembre 2026
+
+**Réapparition des monstres plus rapide.**
+Les monstres réapparaissent plus vite sur de nombreuses cartes de chasse, surtout là où l'attente entre deux groupes était la plus longue (par exemple Outcast, Mountain Beast, Elan et le Laboratoire). Les boss et les apparitions rares ne changent pas.
+
+**Excelsiar à l'Ammo Tool.**
+Les Excelsiar de toutes les couleurs, types A, B et C, se fabriquent désormais avec le Bullet Tool Kit (Ammo Tool), avec la même recette, la même chance de réussite et le même coût qu'au PNJ HERO. Cette fabrication ne donne aucune maîtrise d'artisanat. La fabrication par lots reste au PNJ HERO.
+
+**Cartes de nom par lots.**
+Au combinateur du PNJ HERO, vous pouvez maintenant poser le même nombre de chaque carte d'un jeu et obtenir d'un coup autant de coupons de nom, au lieu de les combiner une par une. Si les quantités ne sont pas égales, rien ne se passe et rien n'est perdu.
+
 ## 1er novembre 2026
 
 **Contrôles de présence contre le farm sans surveillance.**

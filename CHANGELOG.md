@@ -2,6 +2,17 @@
 
 # Changelog
 
+## 5 November 2026
+
+**Faster monster respawn.**
+Monsters now respawn faster on many hunting maps, mostly where you had to wait the longest between two packs (for example Outcast, Mountain Beast, Elan and the Laboratory). Bosses and rare spawns are unchanged.
+
+**Excelsiar with the Ammo Tool.**
+Excelsiar of every color, types A, B and C, can now be crafted with the Bullet Tool Kit (Ammo Tool), with the same recipe, the same success chance and the same fee as at the HERO NPC. This crafting gives no crafting mastery. Bulk crafting stays at the HERO NPC.
+
+**Name Cards in bulk.**
+At the HERO NPC's Item Combiner, you can now put the same number of each card of a set and get that many name coupons at once, instead of combining them one by one. If the quantities are not equal, nothing happens and nothing is lost.
+
 ## 1 November 2026
 
 **Presence checks against unattended farming.**
