@@ -2,6 +2,35 @@
 
 # Changelog
 
+## 7 November 2026
+
+**Weekly Hunt.**
+A weekly hunting goal for each race, with its own window (Function menu, or the End key). It shows your race's target, your progress, the top 10 hunters and where to hunt. Monsters that count for your race are marked with a red "!". The first hunt opens on Monday, November 9 at 5:00 AM (server time).
+
+**Holiday Event, December 15 to January 15.**
+Everything is in place: Holiday portals in every HQ, Holiday bosses, Santa Chooty in each HQ every evening, Holiday boxes and crafting. The portals are already visible and open on December 15. Six Holiday collections are ready in the Codex and appear on December 15.
+
+**Cash Shop.**
+The Socket Extender [D] for armor and shields now costs less. A few items left the shop.
+
+**Fierce Battle.**
+Drops rebalanced, and the Fierce Battle of Lunker is much tougher.
+
+**Specialist Cora (Artisan).**
+Animus Rest and Fast Recall are now available.
+
+**Excelsiar at the Ammo Tool.**
+Excelsiar crafting at the Ammo Tool is fixed.
+
+**Guide.**
+New in-game guide entries (%guide).
+
+**Auto-clicker.**
+The 2-hour kick is removed. The daily limit still applies. With the full release next year, this software will be blacklisted.
+
+**Event items.**
+Halloween event masks and boxes will be removed after November 15 (masks upgraded to +4 or more are kept). Mid-Autumn event items that cannot be traded (skewers, vegetables, coupons) will be removed after December 31, from bags, storage and equipment.
+
 ## 5 November 2026
 
 **Faster monster respawn.**

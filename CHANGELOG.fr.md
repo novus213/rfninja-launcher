@@ -2,6 +2,35 @@
 
 # Journal des modifications
 
+## 7 novembre 2026
+
+**Chasse hebdomadaire (Weekly Hunt).**
+Un objectif de chasse par semaine pour chaque race, avec sa propre fenêtre (menu Function, ou la touche Fin). Elle montre la cible de ta race, ta progression, le top 10 des chasseurs et où chasser. Les monstres qui comptent pour ta race portent un « ! » rouge. La première chasse ouvre le lundi 9 novembre à 5 h (heure du serveur).
+
+**Événement de Noël, du 15 décembre au 15 janvier.**
+Tout est en place : portails de Noël dans chaque QG, boss de Noël, Santa Chooty dans chaque QG tous les soirs, boîtes et fabrications de Noël. Les portails sont déjà visibles et ouvrent le 15 décembre. Six collections de Noël sont prêtes dans le Codex et apparaissent le 15 décembre.
+
+**Boutique cash.**
+L'extenseur d'emplacements [D] pour armures et boucliers coûte moins cher. Quelques objets ont quitté la boutique.
+
+**Fierce Battle.**
+Butin rééquilibré, et le Fierce Battle of Lunker est bien plus coriace.
+
+**Spécialiste Cora (Artisan).**
+Animus Rest et Fast Recall sont désormais disponibles.
+
+**Excelsiar à l'Ammo Tool.**
+La fabrication d'Excelsiar à l'Ammo Tool est corrigée.
+
+**Guide.**
+Nouvelles entrées du guide en jeu (%guide).
+
+**Auto-clicker.**
+L'expulsion au bout de 2 heures est supprimée. La limite par jour reste. À la sortie officielle l'an prochain, ce logiciel sera sur liste noire.
+
+**Objets d'événement.**
+Les masques et boîtes d'Halloween seront retirés après le 15 novembre (les masques améliorés à +4 ou plus sont gardés). Les objets de la fête de la mi-automne qu'on ne peut pas échanger (brochettes, légumes, coupons) seront retirés après le 31 décembre, des sacs, des coffres et de l'équipement.
+
 ## 5 novembre 2026
 
 **Réapparition des monstres plus rapide.**
