@@ -2,6 +2,23 @@
 
 # Journal des modifications
 
+## 8 novembre 2026
+
+**Fenêtre de fabrication : 7 pages.**
+Chaque onglet de fabrication contient désormais 140 recettes (7 pages) au lieu de 100. Les recettes d'armure haut niveau qui étaient coupées en fin de liste sont de retour. Lance le lanceur pour récupérer la mise à jour.
+
+**Équilibrage PvP : MAU contre joueurs à pied.**
+Les dégâts des MAU contre les joueurs à pied sont réduits, et la puissance des générateurs en PvP est désormais plafonnée.
+
+**Pièges anti-MAU.**
+Les pièges anti-MAU fonctionnent de nouveau sur les pilotes de MAU.
+
+**Équilibre des races.**
+Un bonus aide désormais les races les moins peuplées.
+
+**Élection du chef de race.**
+Les votes perdus lors du redémarrage d'aujourd'hui ont été rétablis. Rouvre la fenêtre de vote pour voir les résultats à jour.
+
 ## 7 novembre 2026
 
 **Chasse hebdomadaire (Weekly Hunt).**

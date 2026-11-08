@@ -2,6 +2,23 @@
 
 # Changelog
 
+## 8 November 2026
+
+**Crafting window: 7 pages.**
+Each crafting tab now holds 140 recipes (7 pages) instead of 100. The high-level armor recipes that were cut off at the end of the list are back. Run the launcher to get the update.
+
+**PvP balance: MAU against players on foot.**
+MAU damage against players on foot is reduced, and generator power in PvP is now capped.
+
+**Anti-MAU traps.**
+Anti-MAU traps work again on MAU pilots.
+
+**Race balance.**
+A bonus now helps the less populated races.
+
+**Race leader election.**
+Votes lost during today's restart have been restored. Reopen the voting window to see the current results.
+
 ## 7 November 2026
 
 **Weekly Hunt.**
