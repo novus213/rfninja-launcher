@@ -2,6 +2,52 @@
 
 # Changelog
 
+## 10 November 2026
+
+A big update that answers your feedback about crafting, the 65-80 levels and the end game. Run the launcher to get the client update (larger than usual, HD textures included).
+
+**Veteran's Daily Hunt (75-80).**
+A new daily quest from the HERO of your race. Three targets are drawn every day, never the same as the day before. Bring back the seals for a level 75+ reward box. Party members fighting nearby also get credit.
+
+**Infernal Towers.**
+Each race has a new scroll that takes you to the monster area (the old scroll still goes to the Lair). Many more monster spawns along the ramp, and the minimap is fixed. A new boss, the Infernal Tower Grand Archmage, waits on every tower with his guards: end-game loot, the same chances for everyone, and anyone can pick up his drops. He respawns about once a day. The Hora Infernal Dragon now has guards of its own.
+
+**Beast Land and Boss Raid Cave (75-80).**
+Three new 75-80 zones, one per race, with zone scrolls sold in your headquarters. Boss Raid Cave is a new 75-80 group instance; its key drops from the Dark monsters.
+
+**PvP level 80 weapons and White Dragon Bone shields.**
+PvP level 80 weapons are sold at the PvP vendor, on par with Dragonborn 75. White Dragon Bone 75 shields can now be crafted.
+
+**Pit Boss Gate (60-74).**
+The gate keys now open six boss dungeons: Sealed Calliana Queen, Sealed Belphegor, Dagon, Dagan, Dagnue and Dark Big Flem. Keys drop from level 67-74 monsters, and can also be bought as a coupon in the cash shop.
+
+**Hidden Land of Elf.**
+Four times more monsters, faster respawn, and stronger monsters (levels 55-59). Your headquarters return scroll now works there. Dying on this map now sends you back to your bind point or headquarters.
+
+**Battle Dungeon (56-66).**
+It now gives proper rewards.
+
+**Professions.**
+New professions: Miner and Skinner (gathering), Jeweler and Alchemist (crafting at the workshop). Talk to the Profession Trainer (the TOOL merchants). A new Professions window shows the recipes, what is locked and why, and the materials you have or miss. Formula books unlock higher recipes, other classes can now learn basic crafting, and the Specialist's crafting cap grows with level. Many new recipes: crafting tiers, assembly of Archon 60/65/70 (no longer sold by the Hero merchants), more weapons.
+
+**Crafting materials and upgrades.**
+Most materials that were cash-only or had no source can now be obtained in game: rare boss chests, rare monster drops, and new shop items (Leon's Lucky Box is back). End-game accessories (Infernal Dragonborn) have three ways in: a recipe, a rare box and a rare drop. Talics and gems are back in boss loot.
+
+**Protect Stone.**
+Sold by the TOOL merchants. It protects a Rare D item from being destroyed or downgraded during an upgrade (up to +6), and it is only used up when it saves your item.
+
+**Loot and economy.**
+Excelsiar pieces no longer flood your bags: monsters now drop mining materials and talics instead, much less often. The NPC resale value of the Platinum Necklace and of the Jewelry Box statues and necklaces is lower. Name coupons are unchanged. Relics of the Catacombs (Elf Ruins) can be exchanged at the Hunting Point Exchange.
+
+**Fixes.**
+BBQ Skewers and other daggers can be used with a shield again. Shield rules are corrected on many one-handed and two-handed weapons, and a Leon staff that was impossible to get is now obtainable. NPC windows no longer show "Ingot Exchange" or "Duration 1 Seconds": TOOL merchants now say "Profession Trainer", and relics show "Relic Exchange". Typos fixed in the Holiday event texts. New players receive a gift from the guide at level 10 and level 30.
+
+**Graphics.**
+HD textures for Elan and Sette.
+
+**Coming next.**
+The Hero merchant already shows the Santa's Gift button: the Holiday Event opens on December 15. Halloween (Trick or Treat) ends on November 15 at midnight.
+
 ## 8 November 2026
 
 **Crafting window: 7 pages.**

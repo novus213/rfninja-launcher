@@ -2,6 +2,52 @@
 
 # Journal des modifications
 
+## 10 novembre 2026
+
+Une grosse mise à jour qui répond à vos retours sur la fabrication, les niveaux 65-80 et la fin de jeu. Lance le lanceur pour récupérer la mise à jour du client (plus lourde que d'habitude, textures HD comprises).
+
+**Veteran's Daily Hunt (75-80).**
+Une nouvelle quête quotidienne auprès du HERO de ta race. Trois cibles sont tirées chaque jour, jamais les mêmes que la veille. Rapporte les sceaux pour une boîte de récompense niveau 75+. Les membres du groupe qui combattent à proximité sont aussi comptés.
+
+**Tours infernales.**
+Chaque race a un nouveau parchemin qui mène à la zone des monstres (l'ancien parchemin mène toujours au Repaire). Beaucoup plus de monstres le long de la rampe, et la minicarte est corrigée. Un nouveau boss, l'Infernal Tower Grand Archmage, attend sur chaque tour avec ses gardes : butin de fin de jeu, les mêmes chances pour tout le monde, et tout le monde peut ramasser ce qu'il laisse. Il réapparaît environ une fois par jour. Le Hora Infernal Dragon a désormais ses propres gardes.
+
+**Beast Land et Boss Raid Cave (75-80).**
+Trois nouvelles zones 75-80, une par race, avec des parchemins de zone vendus dans ton QG. Boss Raid Cave est une nouvelle instance de groupe 75-80 ; sa clé tombe sur les monstres Dark.
+
+**Armes PvP niveau 80 et boucliers White Dragon Bone.**
+Les armes PvP niveau 80 sont vendues chez le marchand PvP, au niveau des Dragonborn 75. Les boucliers White Dragon Bone 75 peuvent désormais être fabriqués.
+
+**Pit Boss Gate (60-74).**
+Les clés de la porte ouvrent désormais six donjons de boss : Sealed Calliana Queen, Sealed Belphegor, Dagon, Dagan, Dagnue et Dark Big Flem. Les clés tombent sur les monstres de niveau 67-74, et s'achètent aussi en coupon dans la boutique cash.
+
+**Hidden Land of Elf.**
+Quatre fois plus de monstres, une réapparition plus rapide, et des monstres plus forts (niveaux 55-59). Le parchemin de retour au QG y fonctionne désormais. Mourir sur cette carte te renvoie maintenant à ton point de lien ou à ton QG.
+
+**Battle Dungeon (56-66).**
+Il donne désormais de vraies récompenses.
+
+**Métiers.**
+Nouveaux métiers : Mineur et Dépeceur (récolte), Joaillier et Alchimiste (fabrication à l'atelier). Parle au formateur des métiers (les marchands TOOL). Une nouvelle fenêtre Professions montre les recettes, ce qui est verrouillé et pourquoi, et les matériaux que tu as ou qui te manquent. Les livres de formules débloquent des recettes plus hautes, les autres classes peuvent désormais apprendre la fabrication de base, et le plafond de fabrication du Spécialiste grandit avec le niveau. Beaucoup de nouvelles recettes : paliers de fabrication, assemblage des Archon 60/65/70 (plus vendus par les marchands Hero), plus d'armes.
+
+**Matériaux de fabrication et amélioration.**
+La plupart des matériaux qui n'existaient qu'en boutique cash ou n'avaient aucune source s'obtiennent désormais en jeu : coffres rares de boss, butin rare de monstres, et nouveaux articles en boutique (la Leon's Lucky Box est de retour). Les accessoires de fin de jeu (Infernal Dragonborn) ont trois voies : une recette, une boîte rare et un butin rare. Les talics et les gemmes reviennent dans le butin des boss.
+
+**Protect Stone.**
+Vendue par les marchands TOOL. Elle protège un objet Rare D d'être détruit ou rétrogradé pendant une amélioration (jusqu'à +6), et elle n'est consommée que quand elle sauve ton objet.
+
+**Butin et économie.**
+Les pièces Excelsiar n'inondent plus tes sacs : les monstres laissent à la place des matériaux de minage et des talics, beaucoup moins souvent. La valeur de revente au PNJ du Platinum Necklace et des statues et colliers de la Jewelry Box est plus basse. Les coupons de nom ne changent pas. Les Relics of the Catacombs (Elf Ruins) s'échangent au Hunting Point Exchange.
+
+**Corrections.**
+Les BBQ Skewers et les autres dagues s'utilisent de nouveau avec un bouclier. Les règles de bouclier sont corrigées sur beaucoup d'armes à une et deux mains, et un bâton Leon impossible à obtenir est désormais obtenable. Les fenêtres des PNJ n'affichent plus « Ingot Exchange » ni « Duration 1 Seconds » : les marchands TOOL disent maintenant « Profession Trainer », et les reliques « Relic Exchange ». Fautes corrigées dans les textes de l'événement Holiday. Les nouveaux joueurs reçoivent un cadeau du guide aux niveaux 10 et 30.
+
+**Graphismes.**
+Textures HD pour Elan et Sette.
+
+**À venir.**
+Le marchand Hero affiche déjà le bouton Santa's Gift : l'événement Holiday ouvre le 15 décembre. Halloween (Trick or Treat) se termine le 15 novembre à minuit.
+
 ## 8 novembre 2026
 
 **Fenêtre de fabrication : 7 pages.**
