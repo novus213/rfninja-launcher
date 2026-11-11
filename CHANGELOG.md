@@ -2,6 +2,28 @@
 
 # Changelog
 
+## 11 November 2026 — evening update
+
+Run the launcher to get the client update.
+
+**Prototype metals.**
+The Prototype Mask and Prototype Wing recipes dropped by monsters could not be used: their metal could be found nowhere. Prototype Mask Metal and Prototype Wing Metal are now sold by the mysterious mineral merchants.
+
+**Shield upgraders [Normal].**
+Like the [B] ones, the stable Favor shield upgraders [Normal] no longer require a shield with exactly 7 slots: they now work on a shield with the number of slots written in their description, or more. Their descriptions are corrected in every language.
+
+**ExcelSiar chips made with the Ammo Tool.**
+After a failed craft, some of the materials you had put in disappeared from your bag until you logged in again. They now stay visible. The chips you make now stack on a stack of the same chip already in your bag, instead of each taking a new slot.
+
+**Collect Inventory (Codex).**
+When the list of items you can register is empty, the window now tells you why: no such item in your bags, or your item does not have exactly the number of talics the slot needs.
+
+**MAU against players on foot: steadier damage.**
+MAU damage against the same player on foot was unpredictable, with some hits doing almost nothing. Hits are now steadier from one shot to the next.
+
+**Protection against automation tools.**
+The client update strengthens the protection against automation tools again.
+
 ## 11 November 2026
 
 Run the launcher to get the client update.

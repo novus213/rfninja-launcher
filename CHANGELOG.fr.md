@@ -2,6 +2,28 @@
 
 # Journal des modifications
 
+## 11 novembre 2026 — mise à jour du soir
+
+Lance le lanceur pour récupérer la mise à jour du client.
+
+**Métaux Prototype.**
+Les recettes Prototype Mask et Prototype Wing que lâchent les monstres étaient inutilisables : leur métal ne se trouvait nulle part. Le Prototype Mask Metal et le Prototype Wing Metal sont désormais vendus par les marchands de minerai mystérieux.
+
+**Améliorateurs de bouclier [Normal].**
+Comme ceux de classe [B], les améliorateurs Favor stables de bouclier [Normal] n'exigent plus un bouclier à exactement 7 emplacements : ils fonctionnent désormais sur un bouclier qui a le nombre d'emplacements indiqué dans leur description, ou plus. Leurs descriptions sont corrigées dans toutes les langues.
+
+**Puces ExcelSiar fabriquées à l'Ammo Tool.**
+Après un échec de fabrication, une partie des matériaux posés disparaissait du sac jusqu'à la reconnexion. Ils restent maintenant visibles. Les puces fabriquées s'empilent désormais sur une pile de la même puce déjà présente dans le sac, au lieu de prendre chacune un nouvel emplacement.
+
+**Collect Inventory (Codex).**
+Quand la liste des objets à enregistrer est vide, la fenêtre explique maintenant pourquoi : aucun objet de ce type dans tes sacs, ou ton objet n'a pas exactement le nombre de talics que demande l'emplacement.
+
+**MAU contre les joueurs à pied : dégâts plus réguliers.**
+Les dégâts d'un MAU contre un même joueur à pied étaient imprévisibles, avec des coups qui ne faisaient presque rien. Les coups sont maintenant plus réguliers d'un tir à l'autre.
+
+**Protection contre les outils d'automatisation.**
+La mise à jour du client renforce encore la protection contre les outils d'automatisation.
+
 ## 11 novembre 2026
 
 Lance le lanceur pour récupérer la mise à jour du client.
