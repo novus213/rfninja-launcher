@@ -2,6 +2,65 @@
 
 # Journal des modifications
 
+## 11 novembre 2026
+
+Lance le lanceur pour récupérer la mise à jour du client.
+
+**Fenêtre de la chasse hebdomadaire (Weekly Hunt).**
+Tes kills mettent désormais la fenêtre à jour tout de suite, au lieu de toutes les 30 secondes. La tranche de niveaux, les meilleurs coins et le boss s'affichent dès l'ouverture de la fenêtre. Nouveaux libellés : « Monsters that count » et « Best spots this week ». Dans le top 10, les noms de personnage russes s'affichent en lettres latines pour les joueurs qui ne jouent pas en russe.
+
+**Icône de l'équilibre des races.**
+L'icône du bonus d'équilibre des races réapparaît après un changement de personnage, sans relancer le jeu.
+
+**Onglet Assembly (fenêtre des métiers).**
+L'onglet Assembly montre désormais la même liste quel que soit ton métier, avec toutes les combinaisons faisables en jeu hors événements : l'équipement, mais aussi les anneaux, amulettes, capes, boîtes, matériaux, talics, forces, potions, pièges, kits et tickets d'échange. La liste est rangée par catégorie, avec de nouvelles catégories (Boxes, Materials, Resources, Forces, Dungeon gates, Traps, Siege kits). Le panneau de droite explique maintenant comment fonctionne l'assemblage.
+
+**Combinaisons corrigées (règles officielles).**
+Certaines combinaisons de démontage et de conversion d'anneaux et d'accessoires ne rendaient qu'une seule pièce : elles rendent maintenant le nombre de pièces des règles officielles. Les armes reliques scellées fabriquées par l'artisanat sont désormais la version qui peut être descellée (cela vaut pour les reliques fabriquées à partir de maintenant). 80 Witch's Candy donnent maintenant les Halloween Event Accessories Coupons.
+
+**Améliorateurs de bouclier.**
+Le Stable Shield 4-6 Favor Upgrader [B Class] se combine désormais avec les boucliers de type B et Intense, et les améliorateurs Favor stables de bouclier [B] n'exigent plus un bouclier à exactement 7 emplacements : ils fonctionnent aussi sur des boucliers à moins d'emplacements, comme le dit leur description. Les descriptions de nombreux améliorateurs contredisaient leur nom ou leur combinaison (mauvais nombre d'emplacements, mauvais type d'armure, mauvaise plage) : elles sont corrigées dans toutes les langues.
+
+**RF Clicker.**
+RF Clicker n'est plus autorisé à partir du vendredi 13 novembre 2026 à 0 h (heure du serveur). À partir de là, son utilisation est sanctionnée automatiquement. La mise à jour du client du 11 novembre renforce aussi la protection contre les outils d'automatisation.
+
+## 10 novembre 2026 — deuxième mise à jour
+
+Lance le lanceur pour récupérer la mise à jour du client.
+
+**Marqueur de la chasse hebdomadaire.**
+Le « ! » rouge au-dessus des monstres qui comptent pour ta race s'affiche de nouveau.
+
+**Chasse hebdomadaire (Weekly Hunt).**
+À partir de la chasse du 16 novembre, la cible hebdomadaire de chaque race est fixée automatiquement au début de la semaine. Tes kills de niveau 75-80 sont désormais enregistrés pour ta race : ils compteront dans l'objectif de race quand la piste 75-80 ouvrira (un message te le dit la première fois).
+
+**Boss de la chasse hebdomadaire : le Stone Warlord.**
+Il est bien plus coriace : plus de points de vie, de régénération et de défense. Ses récompenses sont bien plus riches : chaque chasseur qui a participé reçoit des talics et des Talic's Crystals, avec une chance d'obtenir une boîte d'armure à son niveau et à sa classe (armure [Rare B] niveau 75 pour les niveaux 71-80). Le top 3 reçoit des récompenses en plus.
+
+**Améliorateurs.**
+Le 3~7 Keen Upgrader [Normal] fonctionne désormais sur les armes normales, et le 3~7 Ignorance Upgrader [C-Class] sur les armes [C] de niveau 67-70. 87 améliorateurs affichaient le mauvais talic ou la mauvaise plage dans leur nom ou leur description (par exemple « Grace » au lieu de « Favor ») : c'est corrigé.
+
+**MAU contre les boss.**
+Les attaques de MAU font désormais beaucoup moins de dégâts aux boss de fin de jeu, aux Pit Boss d'Elan et au Stone Warlord.
+
+**MAU contre les joueurs à pied.**
+Les dégâts des MAU contre les joueurs à pied dépendent désormais du niveau de l'arme du MAU, et les pilotes de niveau 70 et plus n'échappent plus à la réduction en utilisant des armes de plus bas niveau.
+
+**Boss.**
+L'Infernal Tower Grand Archmage, le Dark Dagon et le Black Dragon frappent plus fort. Le Grand Archmage et le Dark Dagon régénèrent aussi plus vite.
+
+**Butin.**
+Les monstres qui laissent des matériaux raffinés en laissent deux fois moins souvent, avec du minerai de minage brut (+1 à +3). Quelques butins ajoutés le matin étaient trop généreux et sont réduits : les clés de la Pit Boss Gate, les boîtes Absolute Zero du Hora Infernal Dragon, et les Jewelry Box du Belphegor et des Brath. Les améliorateurs ajoutés au butin des monstres le 9 novembre sont modérés : les améliorateurs [D] et Leon sont retirés, les [B] et [C] sont bien plus rares, et le 3~7 Keen Upgrader [Normal] est dix fois plus rare. Les ailes Prototype et les accessoires de fin de jeu (Infernal Dragonborn, Absolute Zero) tombent désormais au taux prévu (ils tombaient bien plus souvent que prévu), et les matériaux d'accessoires des niveaux 50-55 ne tombent plus des monstres de niveau 71 et plus.
+
+**Plafond d'artisanat.**
+La fenêtre des métiers affiche ton vrai plafond d'artisanat, et ce plafond suit désormais ta classe actuelle : un ancien Spécialiste qui a changé de classe a le plafond de sa nouvelle classe.
+
+**Guide.**
+Nouvelles rubriques du guide (%guide) : métiers, Pit Boss et fin de jeu. Les rubriques artisanat et amélioration sont complétées.
+
+**Beast Land.**
+Le ciel s'affiche désormais et le brouillard a été retravaillé.
+
 ## 10 novembre 2026
 
 Une grosse mise à jour qui répond à vos retours sur la fabrication, les niveaux 65-80 et la fin de jeu. Lance le lanceur pour récupérer la mise à jour du client (plus lourde que d'habitude, textures HD comprises).

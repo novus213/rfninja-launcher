@@ -2,6 +2,65 @@
 
 # Changelog
 
+## 11 November 2026
+
+Run the launcher to get the client update.
+
+**Weekly Hunt window.**
+Your kills now update the window right away, instead of every 30 seconds. The level range, the best spots and the boss are shown as soon as the window opens. New labels: "Monsters that count" and "Best spots this week". In the top 10, Russian character names are shown in Latin letters for players who do not play in Russian.
+
+**Race balance icon.**
+The race balance bonus icon shows up again after changing character, without restarting the game.
+
+**Assembly tab (Professions window).**
+The Assembly tab now shows the same list whatever your profession, with every combination you can do in game outside events: equipment, but also rings, amulets, cloaks, boxes, materials, talics, forces, potions, traps, kits and exchange tickets. The list is sorted by category, with new categories (Boxes, Materials, Resources, Forces, Dungeon gates, Traps, Siege kits). The right panel now explains how Assembly works.
+
+**Combination fixes (official rules).**
+Some dismantling and conversion combinations of rings and accessories gave a single piece: they now give the number of pieces of the official rules. Sealed relic weapons made by crafting are now the version that can be unsealed (this applies to relics crafted from now on). 80 Witch's Candy now give the Halloween Event Accessories Coupons.
+
+**Shield upgraders.**
+The Stable Shield 4-6 Favor Upgrader [B Class] now combines with B type and Intense shields, and the stable Favor shield upgraders [B] no longer require a shield with exactly 7 slots: they also work on shields with fewer slots, as their description says. The descriptions of many upgraders contradicted their name or their combination (wrong number of slots, wrong armor type, wrong range): they are corrected in every language.
+
+**RF Clicker.**
+RF Clicker is no longer allowed from Friday, November 13, 2026 at 00:00 (server time). From then on, its use is sanctioned automatically. The client update of November 11 also strengthens the protection against automation tools.
+
+## 10 November 2026 — second update
+
+Run the launcher to get the client update.
+
+**Weekly Hunt marker.**
+The red "!" over the monsters that count for your race is displayed again.
+
+**Weekly Hunt.**
+From the hunt of November 16, each race's weekly target is set automatically at the start of the week. Your level 75-80 kills are now recorded for your race: they will count toward the race objective once the 75-80 track opens (a message tells you so the first time).
+
+**Weekly Hunt boss: the Stone Warlord.**
+It is much tougher: more health, health regeneration and defense. Its rewards are much richer: every hunter who took part receives talics and Talic's Crystals, with a chance of an armor box for their level and class (level 75 [Rare B] armor for levels 71-80). The top 3 get extra rewards.
+
+**Upgraders.**
+The 3~7 Keen Upgrader [Normal] now works on normal weapons, and the 3~7 Ignorance Upgrader [C-Class] on level 67-70 [C] weapons. 87 upgraders showed the wrong talic or the wrong range in their name or description (for example "Grace" instead of "Favor"): corrected.
+
+**MAU against bosses.**
+MAU attacks now deal much less damage to the end-game bosses, to the Pit Bosses of Elan and to the Stone Warlord.
+
+**MAU against players on foot.**
+MAU damage against players on foot is now adjusted by the level of the MAU weapon, and level 70+ pilots no longer escape the reduction by using lower-level weapons.
+
+**Bosses.**
+The Infernal Tower Grand Archmage, Dark Dagon and the Black Dragon hit harder. The Grand Archmage and Dark Dagon also regenerate faster.
+
+**Loot.**
+Monsters that drop refined materials now drop them half as often, together with raw mining ore (+1 to +3). A few drops added in the morning were too generous and are reduced: Pit Boss Gate keys, Absolute Zero boxes from the Hora Infernal Dragon, and the Jewelry Boxes of Belphegor and the Braths. The upgraders added to monster loot on November 9 are toned down: the [D] and Leon upgraders are removed, the [B] and [C] upgraders are much rarer, and the 3~7 Keen Upgrader [Normal] is ten times rarer. Prototype wings and end-game accessories (Infernal Dragonborn, Absolute Zero) now drop at their intended rate (they dropped far more often than planned), and accessory materials for levels 50-55 no longer drop from level 71+ monsters.
+
+**Crafting cap.**
+The Professions window shows your real crafting cap, and the cap now follows your current class: a former Specialist who changed class has the cap of the new class.
+
+**Guide.**
+New guide topics (%guide): professions, Pit Boss and end game. The crafting and upgrade topics are completed.
+
+**Beast Land.**
+The sky is now displayed and the fog has been reworked.
+
 ## 10 November 2026
 
 A big update that answers your feedback about crafting, the 65-80 levels and the end game. Run the launcher to get the client update (larger than usual, HD textures included).
