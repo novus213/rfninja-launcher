@@ -22,7 +22,7 @@ Certaines combinaisons de démontage et de conversion d'anneaux et d'accessoires
 Le Stable Shield 4-6 Favor Upgrader [B Class] se combine désormais avec les boucliers de type B et Intense, et les améliorateurs Favor stables de bouclier [B] n'exigent plus un bouclier à exactement 7 emplacements : ils fonctionnent aussi sur des boucliers à moins d'emplacements, comme le dit leur description. Les descriptions de nombreux améliorateurs contredisaient leur nom ou leur combinaison (mauvais nombre d'emplacements, mauvais type d'armure, mauvaise plage) : elles sont corrigées dans toutes les langues.
 
 **RF Clicker.**
-RF Clicker n'est plus autorisé à partir du vendredi 13 novembre 2026 à 0 h (heure du serveur). À partir de là, son utilisation est sanctionnée automatiquement. La mise à jour du client du 11 novembre renforce aussi la protection contre les outils d'automatisation.
+RF Clicker n'est plus autorisé à partir du vendredi 13 novembre 2026 à 0 h (heure du serveur). À partir de là, son utilisation est sanctionnée automatiquement. RFU Free n'est pas autorisé non plus, dans les mêmes conditions et à partir du même moment. La mise à jour du client du 11 novembre renforce aussi la protection contre les outils d'automatisation.
 
 **MAU contre les joueurs à pied : niveau de la cible.**
 Les dégâts des MAU contre les joueurs à pied dépendent maintenant aussi du niveau de la cible. Depuis le 10 novembre, les joueurs à pied de niveau 60 et plus étaient devenus beaucoup trop difficiles à tuer avec un MAU de haut niveau : ils tombent désormais en à peu près autant de tirs que les joueurs de plus bas niveau. Rien ne change contre les joueurs de moins de 60 ni contre les monstres.
