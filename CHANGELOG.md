@@ -24,6 +24,9 @@ The Stable Shield 4-6 Favor Upgrader [B Class] now combines with B type and Inte
 **RF Clicker.**
 RF Clicker is no longer allowed from Friday, November 13, 2026 at 00:00 (server time). From then on, its use is sanctioned automatically. The client update of November 11 also strengthens the protection against automation tools.
 
+**MAU against players on foot: target level.**
+MAU damage against players on foot now also depends on the level of the target. Players on foot of level 60 and above had become far too hard to kill with a high-level MAU since November 10: they now go down in about as many shots as lower-level players. Damage against players below level 60 and against monsters is unchanged.
+
 ## 10 November 2026 — second update
 
 Run the launcher to get the client update.
