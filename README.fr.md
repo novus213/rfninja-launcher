@@ -10,11 +10,28 @@ Launcher officiel du serveur.
 2. Extrayez-le où vous voulez installer le jeu — prévoyez **9 Go** libres.
    Évitez `C:\Program Files` : Windows y restreint l'écriture et le jeu ne
    pourrait plus se mettre à jour.
-3. Lancez **`RFNinja.exe`**.
+3. Lancez **`RFNinja.exe`**. Windows demandera une autorisation : c'est normal,
+   le jeu exige les droits administrateur.
 
-Le client (environ 3,6 Go) se télécharge automatiquement. Si le téléchargement
+Le client (environ 3,6 Go) se télécharge automatiquement, puis les composants
+requis (Visual C++, DirectX) s'installent une seule fois. Si le téléchargement
 est interrompu, relancez simplement `RFNinja.exe` : il reprend là où il s'était
 arrêté.
+
+## ⚠️ Si le jeu ne démarre pas : votre antivirus
+
+Le jeu utilise une protection anti-triche, et beaucoup d'antivirus la bloquent
+parce que son comportement ressemble à celui d'un logiciel malveillant.
+
+Si vous voyez :
+
+> L'application n'a pas réussi à démarrer correctement (0xc0000142)
+
+c'est presque toujours l'antivirus. **Ajoutez le dossier du jeu aux exclusions
+de votre antivirus**, puis relancez.
+
+Sous Windows Defender : *Sécurité Windows → Protection contre les virus et
+menaces → Gérer les paramètres → Exclusions → Ajouter une exclusion → Dossier*.
 
 ## Ensuite
 
@@ -29,6 +46,10 @@ vérifie les mises à jour et les applique avant la connexion.
 - **Le téléchargement ne démarre pas** : vérifiez que `RFNinja.exe` n'est pas
   bloqué par votre antivirus ou votre pare-feu — il a besoin d'accéder à
   Internet pour installer et mettre à jour le jeu.
+- **Windows édition N ou KN** : installez le *Media Feature Pack* de Microsoft,
+  nécessaire au son du jeu.
+- **Le jeu ne démarre toujours pas** : supprimez `Redist\.installed` dans le
+  dossier du jeu et relancez — les composants seront réinstallés.
 
 ## Signaler un problème
 
