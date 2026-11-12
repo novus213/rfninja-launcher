@@ -2,6 +2,13 @@
 
 # Changelog
 
+## 12 November 2026
+
+Run the launcher to get the client update.
+
+**Guild battles: goals can be scored.**
+In a guild battle, carrying the ball into the enemy goal did nothing, so no goal could ever be scored and every match ran out the clock. Carrying the ball into the enemy goal now scores the point.
+
 ## 11 November 2026 — evening update
 
 Run the launcher to get the client update.

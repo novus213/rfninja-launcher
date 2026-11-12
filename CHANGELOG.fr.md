@@ -2,6 +2,13 @@
 
 # Journal des modifications
 
+## 12 novembre 2026
+
+Lance le lanceur pour récupérer la mise à jour du client.
+
+**Guerres de guilde : les buts comptent.**
+En guerre de guilde, porter le ballon dans le but adverse ne faisait rien : aucun but ne pouvait être marqué et chaque match allait jusqu'au temps limite. Porter le ballon dans le but adverse marque maintenant le point.
+
 ## 11 novembre 2026 — mise à jour du soir
 
 Lance le lanceur pour récupérer la mise à jour du client.
