@@ -2,6 +2,28 @@
 
 # Journal des modifications
 
+## 13 novembre 2026
+
+Lance le lanceur pour récupérer la mise à jour du client.
+
+**Chip War : gardiens des pierres.**
+Quand la pierre de ta race est attaquée pendant une bataille, des gardiens viennent maintenant la défendre. Leur nombre et leur force s'adaptent aux attaquants.
+
+**Chip War : un boss commun.**
+Un boss apparaît pendant chaque bataille. Quand il meurt, les joueurs qui l'ont combattu gagnent des boîtes de talics pour leur race. Pas de boss tué, pas de boîtes.
+
+**Chip War : appel aux armes et fenêtre en direct.**
+Une bannière te prévient maintenant quand ta pierre est attaquée, puis quand elle faiblit. Une nouvelle fenêtre montre la bataille en temps réel (PV des pierres, minuteur, races). Elle s'ouvre seule pendant une bataille, par la nouvelle icône du menu, ou avec la touche Inser.
+
+**Jetpacks d'événement.**
+Les sacs de Mi-Automne sortaient avec un nombre d'emplacements au hasard, si bien que la plupart ne pouvaient jamais être améliorés. Ils sortent maintenant avec tous leurs emplacements. Pour les jetpacks d'événement que tu as déjà, un nouvel Event Jetpack Socket Extender est vendu par le Foreign Vendor : il ajoute un emplacement et garde tes talics.
+
+**Effets visuels.**
+Plusieurs panoplies d'armes et d'armures autour du niveau 70-75 n'avaient aucun effet visuel, alors que le client officiel en montre un. Elles l'affichent maintenant.
+
+**Guide.**
+Le guide en jeu liste maintenant les meilleures cartes pour monter de niveau, et il est disponible en russe.
+
 ## 12 novembre 2026 — mise à jour de l'après-midi
 
 Lance le lanceur pour récupérer la mise à jour du client.

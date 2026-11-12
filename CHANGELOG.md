@@ -2,6 +2,28 @@
 
 # Changelog
 
+## 13 November 2026
+
+Run the launcher to get the client update.
+
+**Chip War: stone guardians.**
+When your race's stone is attacked during a battle, guardians now come to defend it. Their number and strength adapt to the attackers.
+
+**Chip War: a common boss.**
+A boss appears during each battle. When it dies, the players who fought it earn talic boxes for their race. No boss kill, no boxes.
+
+**Chip War: call to arms and live window.**
+You now get a banner alert when your stone is attacked, and again when it gets low. A new live window shows the battle in real time (stone HP, timer, races). It opens on its own during a battle, from the new menu icon, or with the Insert key.
+
+**Event jetpacks.**
+Mid-Autumn backpacks were made with a random number of sockets, so most of them could never be upgraded. They now always come with all their sockets. For event jetpacks you already own, a new Event Jetpack Socket Extender is sold by the Foreign Vendor: it adds one socket and keeps your talics.
+
+**Visual effects.**
+Several weapon and armor sets around level 70-75 had no visual effect, while the official client shows one. They now show it.
+
+**Guide.**
+The in-game guide now lists the best leveling maps, and it is available in Russian.
+
 ## 12 November 2026 — afternoon update
 
 Run the launcher to get the client update.
