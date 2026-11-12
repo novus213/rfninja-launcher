@@ -2,6 +2,22 @@
 
 # Changelog
 
+## 12 November 2026 — afternoon update
+
+Run the launcher to get the client update.
+
+**Russian language.**
+With the Russian game client, the Weekly Hunt, Workshop and Codex windows were shown in English. They are now translated into Russian. Some item names are still in English; their translation comes in a later update.
+
+**Russian client: item icons.**
+With the Russian game client, many items showed a "NO IMAGE" icon. They now show their real icon.
+
+**Premium Pass.**
+A Premium Pass bought in game could take several minutes before it took effect. It now activates within a few seconds.
+
+**Ore from monsters.**
+Raw ore still drops in Sette Desert. Elsewhere, monsters now drop refined ore matching their level.
+
 ## 12 November 2026
 
 Run the launcher to get the client update.

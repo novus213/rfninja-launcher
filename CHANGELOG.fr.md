@@ -2,6 +2,22 @@
 
 # Journal des modifications
 
+## 12 novembre 2026 — mise à jour de l'après-midi
+
+Lance le lanceur pour récupérer la mise à jour du client.
+
+**Langue russe.**
+Avec le client de jeu russe, les fenêtres Weekly Hunt, Atelier et Codex s'affichaient en anglais. Elles sont maintenant traduites en russe. Certains noms d'objets restent en anglais ; leur traduction arrive dans une prochaine mise à jour.
+
+**Client russe : icônes des objets.**
+Avec le client de jeu russe, de nombreux objets affichaient une icône « NO IMAGE ». Ils affichent maintenant leur vraie icône.
+
+**Premium Pass.**
+Un Premium Pass acheté en jeu pouvait mettre plusieurs minutes à prendre effet. Il s'active maintenant en quelques secondes.
+
+**Minerai des monstres.**
+Le minerai brut tombe toujours dans le Sette Desert. Ailleurs, les monstres lâchent maintenant du minerai raffiné adapté à leur niveau.
+
 ## 12 novembre 2026
 
 Lance le lanceur pour récupérer la mise à jour du client.
