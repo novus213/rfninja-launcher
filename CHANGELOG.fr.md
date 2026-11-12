@@ -7,7 +7,7 @@
 Lance le lanceur pour récupérer la mise à jour du client.
 
 **Langue russe.**
-Avec le client de jeu russe, les fenêtres Weekly Hunt, Atelier et Codex s'affichaient en anglais. Elles sont maintenant traduites en russe. Certains noms d'objets restent en anglais ; leur traduction arrive dans une prochaine mise à jour.
+Avec le client de jeu russe, les fenêtres Weekly Hunt, Atelier et Codex s'affichaient en anglais. Elles sont maintenant traduites en russe, et environ la moitié des noms d'objets qui restaient en anglais s'affichent maintenant en russe. Les autres suivront dans de prochaines mises à jour.
 
 **Client russe : icônes des objets.**
 Avec le client de jeu russe, de nombreux objets affichaient une icône « NO IMAGE ». Ils affichent maintenant leur vraie icône.

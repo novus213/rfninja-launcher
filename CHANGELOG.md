@@ -7,7 +7,7 @@
 Run the launcher to get the client update.
 
 **Russian language.**
-With the Russian game client, the Weekly Hunt, Workshop and Codex windows were shown in English. They are now translated into Russian. Some item names are still in English; their translation comes in a later update.
+With the Russian game client, the Weekly Hunt, Workshop and Codex windows were shown in English. They are now translated into Russian, and about half of the item names that were still in English are now shown in Russian. The rest will follow in later updates.
 
 **Russian client: item icons.**
 With the Russian game client, many items showed a "NO IMAGE" icon. They now show their real icon.
