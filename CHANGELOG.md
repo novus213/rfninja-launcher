@@ -2,6 +2,16 @@
 
 # Changelog
 
+## 13 November 2026 — morning update
+
+Run the launcher to get the client update.
+
+**Russian client: interface.**
+With the game client set to Russian, many windows (including the Cash Shop) still used the old interface look. They now use the same custom interface as the English client. Some text drawn inside the interface images stays in English.
+
+**Russian client: guide messages.**
+The in-game guide messages showed unreadable characters with the Russian client. They are now readable in Russian.
+
 ## 13 November 2026
 
 Run the launcher to get the client update.

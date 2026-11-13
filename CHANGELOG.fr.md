@@ -2,6 +2,16 @@
 
 # Journal des modifications
 
+## 13 novembre 2026 — mise à jour du matin
+
+Lance le lanceur pour récupérer la mise à jour du client.
+
+**Client russe : interface.**
+Avec le client de jeu en russe, beaucoup de fenêtres (dont la boutique cash) gardaient l'ancienne apparence. Elles ont maintenant la même interface personnalisée que le client anglais. Certains textes dessinés dans les images de l'interface restent en anglais.
+
+**Client russe : messages du guide.**
+Les messages du guide en jeu s'affichaient avec des caractères illisibles sur le client russe. Ils sont maintenant lisibles en russe.
+
 ## 13 novembre 2026
 
 Lance le lanceur pour récupérer la mise à jour du client.
