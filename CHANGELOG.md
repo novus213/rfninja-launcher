@@ -2,6 +2,16 @@
 
 # Changelog
 
+## 13 November 2026 — midday update
+
+Run the launcher to get the client update.
+
+**Crash fix: Accretia gloves.**
+Equipping some Accretia gloves (including the level 57 WarMachine set) closed the game, and the character could no longer log in. This is fixed.
+
+**Chip War: guardians rebalanced.**
+Small groups can now defeat the stone guardians, and the guardians now also wear down high-level MAUs. No restart was needed for this change.
+
 ## 13 November 2026 — morning update
 
 Run the launcher to get the client update.

@@ -2,6 +2,16 @@
 
 # Journal des modifications
 
+## 13 novembre 2026 — mise à jour de midi
+
+Lance le lanceur pour récupérer la mise à jour du client.
+
+**Correctif de plantage : gants Accretia.**
+Équiper certains gants Accretia (dont le set WarMachine niveau 57) fermait le jeu, et le personnage ne pouvait plus se connecter. C'est corrigé.
+
+**Chip War : gardiens rééquilibrés.**
+Les petits groupes peuvent maintenant venir à bout des gardiens de la pierre, et les gardiens usent aussi les MAU de haut niveau. Ce changement n'a demandé aucun redémarrage.
+
 ## 13 novembre 2026 — mise à jour du matin
 
 Lance le lanceur pour récupérer la mise à jour du client.
