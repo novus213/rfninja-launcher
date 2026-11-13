@@ -2,6 +2,18 @@
 
 # Journal des modifications
 
+## 13 novembre 2026 — mise à jour de l'après-midi
+
+Lance le lanceur pour récupérer la mise à jour du client.
+
+**Weekly Hunt.**
+Le classement et le suivi de progression ont été améliorés pour une compétition plus équitable, et la fenêtre du Weekly Hunt explique plus clairement ses règles. Les messages du Weekly Hunt dans le chat s'affichent désormais en couleur.
+
+**Weekly Hunt : Stone Warlord.**
+Le combat contre le Stone Warlord a été rééquilibré pour garder un bon rythme quelle que soit la taille du groupe, et les meilleurs en dégâts reçoivent de meilleures récompenses.
+
+**Divers correctifs et améliorations.**
+
 ## 13 novembre 2026 — mise à jour de midi
 
 Lance le lanceur pour récupérer la mise à jour du client.

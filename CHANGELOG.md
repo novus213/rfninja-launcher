@@ -2,6 +2,18 @@
 
 # Changelog
 
+## 13 November 2026 — afternoon update
+
+Run the launcher to get the client update.
+
+**Weekly Hunt.**
+Ranking and progress tracking were improved for a fairer competition, and the Weekly Hunt window now explains its rules more clearly. Weekly Hunt messages in the chat now show in color.
+
+**Weekly Hunt: Stone Warlord.**
+The Stone Warlord fight was rebalanced to keep a good pace whatever the size of the group, and the top damage dealers get better rewards.
+
+**Various fixes and improvements.**
+
 ## 13 November 2026 — midday update
 
 Run the launcher to get the client update.
