@@ -1,4 +1,4 @@
-*[English](CHANGELOG.md) · [Français](CHANGELOG.fr.md) · **Русский***
+*[English](CHANGELOG.md) · [Français](CHANGELOG.fr.md) · **Русский** · [Português (Brasil)](CHANGELOG.pt-br.md)*
 
 # Журнал изменений
 
