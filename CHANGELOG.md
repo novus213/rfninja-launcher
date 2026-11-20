@@ -2,12 +2,37 @@
 
 # Changelog
 
+## 20 November 2026 (evening) — server and client update
+
+Run the launcher to get the update.
+
+**The game in Portuguese (Brazil).**
+The game is now fully available in Portuguese: game client, server messages, in-game guide, our custom windows and the launcher. Choose Portuguese in the launcher language menu.
+
+**Launcher improvements.**
+The launcher has a new reviews tab and a vote button. Changing the launcher language now also switches the game language, when that language is installed.
+
+**Russian translation fixes.**
+Several Russian texts have been corrected, including the item lock windows, plurals and the premium status.
+
+**Talic Crystal combination and Type-C Patron armor.**
+The Talic Crystal combination at your race's Hero NPC and the Type-C Patron armor upgrade are now available. Thanks to the player who reported it!
+
+**Vote reminder.**
+A short daily reminder now tells you when you still have votes left. If you have already voted everywhere today, you will not see it.
+
+**Smoother server.**
+The short freezes that could happen when the server refreshes its scripts are now shorter.
+
+**Anti-cheat.**
+Protection against cheating has been strengthened.
+
 ## 20 November 2026 — client update
 
 Run the launcher to get the update.
 
 **A brand new launcher.**
-A new modern window shows the latest news, the server status and the number of players online, with Discord, Website and Shop buttons and a big PLAY button. It has quiet background music with a mute button, and it is available in English, French and Russian.
+A new modern window shows the latest news, the server status and the number of players online, with Discord, Website and Shop buttons and a big PLAY button. It has quiet background music with a mute button, and it is available in English, French, Russian and Portuguese (Brazil).
 
 **Game files repaired automatically.**
 At each start, the launcher quickly checks your game files. If one is missing or damaged, it offers to repair it and downloads only that file instead of the whole game. Your own settings are always kept: graphics, sound, key bindings, friend list and launcher settings. A client that is too old now reinstalls the game by itself instead of showing an error.

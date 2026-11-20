@@ -2,12 +2,37 @@
 
 # Registro de alterações
 
+## 20 de novembro de 2026 (noite) — atualização do servidor e do cliente
+
+Abra o launcher para receber a atualização.
+
+**O jogo em português (Brasil).**
+O jogo agora está totalmente disponível em português: cliente do jogo, mensagens do servidor, guia do jogo, nossas janelas personalizadas e o launcher. Escolha o português no menu de idiomas do launcher.
+
+**Melhorias no launcher.**
+O launcher ganhou uma nova aba de avaliações e um botão de votação. Mudar o idioma do launcher agora também muda o idioma do jogo, quando esse idioma está instalado.
+
+**Correções na tradução russa.**
+Vários textos em russo foram corrigidos, incluindo as janelas de bloqueio de itens, os plurais e o status premium.
+
+**Combinação de cristais Talic e armadura Patron Type C.**
+A combinação de cristais Talic no NPC Hero da sua raça e a melhoria da armadura Patron para Type C já estão disponíveis. Obrigado ao jogador que nos avisou!
+
+**Lembrete de votação.**
+Um breve lembrete diário agora avisa quando você ainda tem votos disponíveis. Se você já votou em todos os lugares hoje, não vai vê-lo.
+
+**Servidor mais fluido.**
+Os pequenos travamentos que podiam acontecer quando o servidor recarrega os seus scripts agora são mais curtos.
+
+**Anti-cheat.**
+A proteção contra trapaças foi reforçada.
+
 ## 20 de novembro de 2026 — atualização do cliente
 
 Abra o launcher para receber a atualização.
 
 **Um launcher totalmente novo.**
-Uma nova janela moderna mostra as últimas novidades, o status do servidor e o número de jogadores online, com os botões Discord, Site e Loja e um grande botão JOGAR. Ela tem uma música de fundo tranquila com um botão para silenciar e está disponível em inglês, francês e russo.
+Uma nova janela moderna mostra as últimas novidades, o status do servidor e o número de jogadores online, com os botões Discord, Site e Loja e um grande botão JOGAR. Ela tem uma música de fundo tranquila com um botão para silenciar e está disponível em inglês, francês, russo e português (Brasil).
 
 **Arquivos do jogo reparados automaticamente.**
 A cada inicialização, o launcher verifica rapidamente os seus arquivos do jogo. Se algum estiver ausente ou danificado, ele oferece o reparo e baixa somente esse arquivo, em vez do jogo inteiro. As suas próprias configurações são sempre mantidas: gráficos, som, teclas, lista de amigos e configurações do launcher. Um cliente antigo demais agora reinstala o jogo sozinho, em vez de mostrar um erro.

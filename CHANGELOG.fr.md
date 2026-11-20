@@ -2,12 +2,37 @@
 
 # Journal des modifications
 
+## 20 novembre 2026 (soir) — mise à jour du serveur et du client
+
+Lancez le launcher pour récupérer la mise à jour.
+
+**Le jeu en portugais (Brésil).**
+Le jeu est maintenant entièrement disponible en portugais : client de jeu, messages du serveur, guide en jeu, nos fenêtres personnalisées et le launcher. Choisissez le portugais dans le menu des langues du launcher.
+
+**Améliorations du launcher.**
+Le launcher a un nouvel onglet d'avis et un bouton de vote. Changer la langue du launcher change maintenant aussi celle du jeu, quand cette langue est installée.
+
+**Corrections de la traduction russe.**
+Plusieurs textes russes ont été corrigés, dont les fenêtres de verrouillage d'objet, les pluriels et le statut premium.
+
+**Combinaison de cristaux Talic et armure Patron Type C.**
+La combinaison de cristaux Talic auprès du PNJ Hero de votre race et l'amélioration de l'armure Patron en Type C sont maintenant disponibles. Merci au joueur qui l'a signalé !
+
+**Rappel de vote.**
+Un court rappel quotidien vous indique désormais qu'il vous reste des votes. Si vous avez déjà voté partout aujourd'hui, vous ne le verrez pas.
+
+**Un serveur plus fluide.**
+Les courts gels qui pouvaient survenir quand le serveur recharge ses scripts sont maintenant plus courts.
+
+**Anti-triche.**
+La protection contre la triche a été renforcée.
+
 ## 20 novembre 2026 — mise à jour du client
 
 Lancez le launcher pour récupérer la mise à jour.
 
 **Un tout nouveau launcher.**
-Une nouvelle fenêtre moderne affiche les dernières nouveautés, l'état du serveur et le nombre de joueurs connectés, avec des boutons Discord, Site et Boutique et un grand bouton JOUER. Elle a une musique d'ambiance discrète avec un bouton pour la couper, et elle est disponible en anglais, en français et en russe.
+Une nouvelle fenêtre moderne affiche les dernières nouveautés, l'état du serveur et le nombre de joueurs connectés, avec des boutons Discord, Site et Boutique et un grand bouton JOUER. Elle a une musique d'ambiance discrète avec un bouton pour la couper, et elle est disponible en anglais, en français, en russe et en portugais (Brésil).
 
 **Fichiers du jeu réparés automatiquement.**
 À chaque démarrage, le launcher vérifie rapidement vos fichiers. Si l'un d'eux manque ou est abîmé, il propose de le réparer et ne télécharge que ce fichier au lieu du jeu complet. Vos réglages sont toujours conservés : graphismes, son, touches, liste d'amis et réglages du launcher. Un client trop ancien réinstalle maintenant le jeu tout seul au lieu d'afficher une erreur.
