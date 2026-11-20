@@ -1,0 +1,53 @@
+name: Report a bug
+description: Something is not working as expected, in game or in the launcher.
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to report this. The more precise your
+        description, the faster the fix.
+
+        If you have a screenshot, attach it: it is often worth more than a
+        long explanation.
+  - type: textarea
+    id: description
+    attributes:
+      label: What happened?
+      description: Describe what you saw.
+      placeholder: The transport ship does not show up at the dock, even though the arrival message appears.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: How can we reproduce it?
+      description: The steps to follow to run into the problem again.
+      placeholder: |
+        1. Go to the Bellato HQ dock
+        2. Wait for the arrival announcement
+        3. The ship stays invisible
+    validations:
+      required: true
+  - type: input
+    id: quand
+    attributes:
+      label: When?
+      description: Approximate date and time, with your time zone.
+      placeholder: 30/08 around 2:30 pm (UTC+2)
+  - type: input
+    id: personnage
+    attributes:
+      label: Character and race
+      placeholder: Pepito, Bellato
+  - type: dropdown
+    id: ou
+    attributes:
+      label: Where?
+      options:
+        - In game
+        - In the launcher
+        - During installation
+        - Other
+    validations:
+      required: true
