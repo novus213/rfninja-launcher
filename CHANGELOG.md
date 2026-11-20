@@ -2,6 +2,19 @@
 
 # Changelog
 
+## 20 November 2026 — client update
+
+Run the launcher to get the update.
+
+**A brand new launcher.**
+A new modern window shows the latest news, the server status and the number of players online, with Discord, Website and Shop buttons and a big PLAY button. It has quiet background music with a mute button, and it is available in English, French and Russian.
+
+**Game files repaired automatically.**
+At each start, the launcher quickly checks your game files. If one is missing or damaged, it offers to repair it and downloads only that file instead of the whole game. Your own settings are always kept: graphics, sound, key bindings, friend list and launcher settings. A client that is too old now reinstalls the game by itself instead of showing an error.
+
+**Anti-cheat.**
+Protection against cheating has been strengthened.
+
 ## 19 November 2026 (night) — server and client update
 
 **The Shiny dungeon key now lists its rewards.**

@@ -2,6 +2,19 @@
 
 # Journal des modifications
 
+## 20 novembre 2026 — mise à jour du client
+
+Lancez le launcher pour récupérer la mise à jour.
+
+**Un tout nouveau launcher.**
+Une nouvelle fenêtre moderne affiche les dernières nouveautés, l'état du serveur et le nombre de joueurs connectés, avec des boutons Discord, Site et Boutique et un grand bouton JOUER. Elle a une musique d'ambiance discrète avec un bouton pour la couper, et elle est disponible en anglais, en français et en russe.
+
+**Fichiers du jeu réparés automatiquement.**
+À chaque démarrage, le launcher vérifie rapidement vos fichiers. Si l'un d'eux manque ou est abîmé, il propose de le réparer et ne télécharge que ce fichier au lieu du jeu complet. Vos réglages sont toujours conservés : graphismes, son, touches, liste d'amis et réglages du launcher. Un client trop ancien réinstalle maintenant le jeu tout seul au lieu d'afficher une erreur.
+
+**Anti-triche.**
+La protection contre la triche a été renforcée.
+
 ## 19 novembre 2026 (nuit) — mise à jour du serveur et du client
 
 **La clé du donjon Shiny liste ses récompenses.**
